@@ -26,7 +26,7 @@ Education
 ======
 **2017.9-2019.6** &nbsp;&nbsp;&nbsp;&nbsp; Master of Computer Science, Fudan University
 <br>
-**Advisor**: Prof. [Yang Chen](https://chenyang03.wordpress.com/publications/)
+**Advisor**: Prof. [Yang Chen](https://chenyang03.wordpress.com/)
 
 
 **2018.11-2019.1** &nbsp;&nbsp;&nbsp;&nbsp; Research Intern in South University of Science and Technology of China.
@@ -39,4 +39,4 @@ Education
 
 **2013.9-2017.6** &nbsp;&nbsp;&nbsp;&nbsp; Bachelor of Computer Science, Fudan University.
 <br>
-**Advisor**: Prof. [Yang Chen](https://chenyang03.wordpress.com/publications/)
+**Advisor**: Prof. [Yang Chen](https://chenyang03.wordpress.com/)
