@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Curriculum Vitae](/files/cv.pdf)
+[Curriculum Vitae](/xlhe/files/cv.pdf)
