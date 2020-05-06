@@ -25,7 +25,7 @@ Research Interests
 
 Education
 ======
-**2020.2-Now** &nbsp;&nbsp;&nbsp;&nbsp; Ph.D of Computer Science, CISPA Helmholtz Center for Information Security
+**2020.2-Now** &nbsp;&nbsp;&nbsp;&nbsp; Ph.D Student of Computer Science, CISPA Helmholtz Center for Information Security
 <br>
 **Advisor**: Dr. [Yang Zhang](https://yangzhangalmo.github.io/).
 

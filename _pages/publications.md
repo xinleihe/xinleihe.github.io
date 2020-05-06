@@ -16,6 +16,10 @@ author_profile: true
 {% endfor %}
 
 
+<b>Stealing Links from Graph Neural Networks</b>
+<br>Xinlei He, Jinyuan Jia, Michael Backes, Neil Zhenqiang Gong, Yang Zhang. 
+Techinical Report
+<br>[[arxiv]](https://arxiv.org/abs/2005.02131)
 
 <b>DeepScan: Exploiting Deep Learning for Malicious Account Detection in Location-Based Social Networks.</b>
 <br>Qingyuan Gong, Yang Chen, **Xinlei He**, Zhou Zhuang, Tianyi Wang, Hong Huang, Xin Wang, Xiaoming Fu. 
