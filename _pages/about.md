@@ -11,21 +11,27 @@ redirect_from:
 
 Biography
 ======
-I am a second-year graduate student at the Computer Science department in Fudan University. My advisor is professor [Yang Chen](https://chenyang03.wordpress.com/) and I am now part of [Mobile Systems and Networking Group](http://fudan-msn.weebly.com/) of the SONIC Laboratory and the chief back-end architect of the Qingyun Go Studio. 
-My current research interests consist of mobile systems and user behavior modeling in online social networks.
-In 2020, I will become a PhD student at [CISPA Helmholtz Center for Information Security, Saarland Informatics Campus.](https://cispa.saarland/)
+I am a first-year Ph.D student at [CISPA Helmholtz Center for Information Security](https://cispa.saarland/). My advisor is Dr. [Yang Zhang](https://yangzhangalmo.github.io/).
+Previously, I obtained my bachelor(2017) and master(2020) degrees from Fudan University under the supervision of  Prof. [Yang Chen](https://chenyang03.wordpress.com/)。
+
+
 
 Research Interests
 ======
-- Mobile Systems
-- Security in LBSNs
-- User Behavior Modeling in OSNs
+- Machine Learning Privacy
+- User Behavior Modeling in Social Networks
 <br><br><br>
 
 
 Education
 ======
-**2017.9-2019.6** &nbsp;&nbsp;&nbsp;&nbsp; Master of Computer Science, Fudan University
+**2020.2-Now** &nbsp;&nbsp;&nbsp;&nbsp; Ph.D of Computer Science, CISPA Helmholtz Center for Information Security
+<br>
+**Advisor**: Dr. [Yang Zhang](https://yangzhangalmo.github.io/).
+
+
+
+**2017.9-2020.1** &nbsp;&nbsp;&nbsp;&nbsp; Master of Computer Science, Fudan University
 <br>
 **Advisor**: Prof. [Yang Chen](https://chenyang03.wordpress.com/)
 
