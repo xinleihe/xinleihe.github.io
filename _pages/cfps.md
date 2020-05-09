@@ -24,7 +24,7 @@ Following my advisor Yang Zhang, I maintain a list of deadlines for conferences 
 |[Oakland 2021](https://www.ieee-security.org/TC/SP2021/)                   | 2020-12-03                | 13 + 5| San Francisco | IEEE   |
 |[USENIX Security 2021](https://www.usenix.org/conference/usenixsecurity21) | 2021-02-04                | 13 +  | Vancouver     | USENIX |
 
-### Recently Submitted
+### Recently Passed
 
 |Name|Deadline|Page|Location|Foramt|
 |:-:|:-:|:-:|:-:|:-:|:-:|
