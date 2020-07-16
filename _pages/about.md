@@ -12,7 +12,7 @@ redirect_from:
 Biography
 ======
 I am a first-year Ph.D student at [CISPA Helmholtz Center for Information Security](https://cispa.saarland/). My advisor is Dr. [Yang Zhang](https://yangzhangalmo.github.io/).
-Prior to that, I obtained my bachelor(2017) and master(2020) degrees from Fudan University under the supervision of  Prof. [Yang Chen](https://chenyang03.wordpress.com/)。
+Prior to that, I obtained my bachelor (2017) and master (2020) degrees from Fudan University under the supervision of  Prof. [Yang Chen](https://chenyang03.wordpress.com/)。
 
 
 
