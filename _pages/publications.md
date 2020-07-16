@@ -16,8 +16,15 @@ author_profile: true
 {% endfor %}
 
 
+<b>Cross-Site Prediction on Social Influence for Cold-Start Users in Online Social Networks.</b>
+<br>Qingyuan Gong, Yang Chen, **Xinlei He**, Yu Xiao, Pan Hui, Xin Wang, Xiaoming Fu.
+To appear: ACM Transactions on the Web (TWEB).
+(DOI: 10.1145/3409108)
+<br>[[pdf]]()
+
+
 <b>Stealing Links from Graph Neural Networks</b>
-<br>Xinlei He, Jinyuan Jia, Michael Backes, Neil Zhenqiang Gong, Yang Zhang. 
+<br>**Xinlei He**, Jinyuan Jia, Michael Backes, Neil Zhenqiang Gong, Yang Zhang. 
 Techinical Report
 <br>[[arxiv]](https://arxiv.org/abs/2005.02131)
 
