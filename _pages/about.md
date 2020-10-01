@@ -24,7 +24,8 @@ Research Interests
 
 What’s New
 ======
-TPC of [SocInfo 2020](https://kdd.isti.cnr.it/socinfo2020/).<br>
+- [September 2020] One paper titled “Stealing Links from Graph Neural Networks” got accepted in [USENIX Security 2021](https://www.usenix.org/conference/usenixsecurity21)!
+- I will join the TPC of [SocInfo 2020](https://kdd.isti.cnr.it/socinfo2020/).
 
 Education
 ======
