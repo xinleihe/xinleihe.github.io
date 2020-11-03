@@ -11,7 +11,7 @@ title                    : "Xinlei He's Homepage"
 title_separator          : "-"
 name                     : &name "Xinlei He"
 description              : &description "Xinlei He (何新磊)"
-url                      : https://willingnesshxl.github.io/xlhe # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://willingnesshxl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # url                      : http://127.0.0.1:4000
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
