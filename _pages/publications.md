@@ -21,6 +21,10 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 <br>In USENIX Security Symposium (USENIX Security 2021)
 <br>[[pdf]](https://arxiv.org/abs/2005.02131)
 
+<b><font color="#19B4F3">DatingSec: Detecting Malicious Accounts in Dating Apps Using a Content-Based Attention Network</font></b>
+<br>**Xinlei He**, Qingyuan Gong, Yang Chen, Yang Zhang, Xin Wang, Xiaoming Fu.
+<br>IEEE Transactions on Dependable and Secure Computing (TDSC)
+<br>[[pdf]]()
 
 ### Prior to PhD:
 
