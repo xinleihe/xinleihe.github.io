@@ -14,8 +14,6 @@ Following my advisor Yang Zhang, I maintain a list of deadlines for conferences 
 
 |Name|Deadline|Page|Location|Format|
 |:-:|:-:|:-:|:-:|:-:|
-|[CCS 2021](https://www.sigsac.org/ccs/CCS2021/)                            | 2020-01-20                |  12 + | Seoul         | ACM    |
-|[USENIX Security 2021](https://www.usenix.org/conference/usenixsecurity21) | 2021-02-04                | 13 +  | Vancouver     | USENIX |
 |[CCS 2021](https://www.sigsac.org/ccs/CCS2021/)                            | 2020-05-06                | 12 +  | Seoul         | ACM    |
 
 ### Recently Passed
@@ -31,4 +29,9 @@ Following my advisor Yang Zhang, I maintain a list of deadlines for conferences 
 |[Oakland 2021](https://www.ieee-security.org/TC/SP2021/)                   | 2020-09-03                | 13 + 5| San Francisco | IEEE   |
 |[USENIX Security 2021](https://www.usenix.org/conference/usenixsecurity21) | 2020-10-15                | 13 +  | Vancouver     | USENIX |
 |[Oakland 2021](https://www.ieee-security.org/TC/SP2021/)                   | 2020-12-03                | 13 + 5| San Francisco | IEEE   |
+|[CCS 2021](https://www.sigsac.org/ccs/CCS2021/)                            | 2020-01-20                |  12 + | Seoul         | ACM    |
+|[USENIX Security 2021](https://www.usenix.org/conference/usenixsecurity21) | 2021-02-04                | 13 +  | Vancouver     | USENIX |
 
+
+Regarding security conference deadline, you can also check [here](https://sec-deadlines.github.io/).
+Regarding AI conference deadline, you can also check [here](https://aideadlin.es).
