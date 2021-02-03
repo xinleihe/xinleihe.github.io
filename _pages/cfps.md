@@ -7,7 +7,7 @@ author_profile: true
 
 
  
-Following my advisor Yang Zhang, I maintain a list of deadlines for conferences to remind me to work harder :D
+Following my advisor Yang Zhang, I maintain a list of deadlines for conferences that I am interested in :D
 
 
 ### Upcoming
