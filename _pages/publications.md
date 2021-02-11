@@ -16,17 +16,7 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 
 
 
-
-<b><font color="#19B4F3">Stealing Links from Graph Neural Networks</font></b>
-<br>**Xinlei He**, Jinyuan Jia, Michael Backes, Neil Zhenqiang Gong, Yang Zhang. 
-<br>In USENIX Security Symposium (USENIX Security 2021)
-<br>[[pdf]](https://arxiv.org/abs/2005.02131)
-
-<b><font color="#19B4F3">DatingSec: Detecting Malicious Accounts in Dating Apps Using a Content-Based Attention Network</font></b>
-<br>**Xinlei He**, Qingyuan Gong, Yang Chen, Yang Zhang, Xin Wang, Xiaoming Fu.
-<br>IEEE Transactions on Dependable and Secure Computing (TDSC)
-<br>[[pdf]]()
-
+### Preprint
 <b><font color="#19B4F3">Node-Level Membership Inference Attacks Against Graph Neural Networks</font></b>
 <br>**Xinlei He**, Rui Wen, Yixin Wu, Michael Backes, Yun Shen, Yang Zhang
 <br>[[arxiv]](https://arxiv.org/abs/2102.05429)
@@ -39,6 +29,18 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 <b><font color="#19B4F3">ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models</font></b>
 <br>Yugeng Liu, Rui Wen, **Xinlei He**, Ahmed Salem, Zhikun Zhang, Michael Backes, Emiliano De Cristofaro, Mario Fritz, Yang Zhang. 
 <br>[[arxiv]](https://arxiv.org/abs/2102.02551)
+
+
+### 2021
+<b><font color="#19B4F3">Stealing Links from Graph Neural Networks</font></b>
+<br>**Xinlei He**, Jinyuan Jia, Michael Backes, Neil Zhenqiang Gong, Yang Zhang. 
+<br>In USENIX Security Symposium (USENIX Security 2021)
+<br>[[pdf]](https://arxiv.org/abs/2005.02131)
+
+<b><font color="#19B4F3">DatingSec: Detecting Malicious Accounts in Dating Apps Using a Content-Based Attention Network</font></b>
+<br>**Xinlei He**, Qingyuan Gong, Yang Chen, Yang Zhang, Xin Wang, Xiaoming Fu.
+<br>To appear: IEEE Transactions on Dependable and Secure Computing (TDSC)
+<br>[[pdf]]()
 
 
 ### Prior to PhD:
