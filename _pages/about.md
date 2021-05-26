@@ -24,8 +24,9 @@ Research Interests
 
 What’s New
 ======
+- [May 2021]  One paper titled "Trimming Mobile Applications for Bandwidth-Challenged Networks in Developing Regions" get accepted in [TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755){:target="_blank"}!
+- [January 2021]  One paper titled "DatingSec: Detecting Malicious Accounts in Dating Apps Using a Content-Based Attention Network" get accepted in [TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858){:target="_blank"}!
 - [September 2020] One paper titled "Stealing Links from Graph Neural Networks" got accepted in [USENIX Security 2021](https://www.usenix.org/conference/usenixsecurity21){:target="_blank"}!
-- I will join the TPC of [SocInfo 2020](https://kdd.isti.cnr.it/socinfo2020/).
 
 Education
 ======
