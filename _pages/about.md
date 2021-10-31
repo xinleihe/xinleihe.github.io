@@ -24,6 +24,7 @@ Research Interests
 
 What’s New
 ======
+- [September 2021] One paper titled “ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models” got accepted in [USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22){:target="_blank"}!
 - [September 2021] One paper titled "Quantifying and Mitigating Privacy Risks of Contrastive Learning" got accepted in [CCS 2021](https://www.sigsac.org/ccs/CCS2021/){:target="_blank"}!
 - [May 2021]  One paper titled "Trimming Mobile Applications for Bandwidth-Challenged Networks in Developing Regions" get accepted in [TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755){:target="_blank"}!
 - [January 2021]  One paper titled "DatingSec: Detecting Malicious Accounts in Dating Apps Using a Content-Based Attention Network" get accepted in [TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858){:target="_blank"}!

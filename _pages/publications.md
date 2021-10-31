@@ -21,17 +21,23 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 <br>**Xinlei He**, Rui Wen, Yixin Wu, Michael Backes, Yun Shen, Yang Zhang
 <br>[[arxiv]](https://arxiv.org/abs/2102.05429)
 
-<b><font color="#19B4F3">Quantifying and Mitigating Privacy Risks of Contrastive Learning</font></b>
-<br>**Xinlei He**, Yang Zhang 
-<br>[[arxiv]](https://arxiv.org/abs/2102.04140)
 
 
+
+### 2022
 <b><font color="#19B4F3">ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models</font></b>
 <br>Yugeng Liu, Rui Wen, **Xinlei He**, Ahmed Salem, Zhikun Zhang, Michael Backes, Emiliano De Cristofaro, Mario Fritz, Yang Zhang. 
-<br>[[arxiv]](https://arxiv.org/abs/2102.02551)
+<br>In USENIX Security Symposium (USENIX Security 2022)
+<br>[[pdf]](https://arxiv.org/abs/2102.02551)
+
 
 
 ### 2021
+
+<b><font color="#19B4F3">Quantifying and Mitigating Privacy Risks of Contrastive Learning</font></b>
+<br>**Xinlei He**, Yang Zhang. 
+<br>In ACM SIGSAC Conference on Computer and Communications Security (CCS 2021)
+<br>[[pdf]](https://arxiv.org/abs/2102.04140)
 
 <b><font color="#19B4F3">Stealing Links from Graph Neural Networks</font></b>
 <br>**Xinlei He**, Jinyuan Jia, Michael Backes, Neil Zhenqiang Gong, Yang Zhang. 
