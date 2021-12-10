@@ -26,7 +26,7 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 
 ### 2022
 <b><font color="#19B4F3">Model Stealing Attacks Against Inductive Graph Neural Networks</font></b>
-<br>Yun Shen*, **Xinlei He***, Yufei Han, Yang Zhang (* equal contribution)
+<br>Yun Shen*, ** Xinlei He* **, Yufei Han, Yang Zhang (* Equal contribution)
 <br>In IEEE Symposium on Security and Privacy (S&P 2022)
 <br>[[pdf]]()
 
