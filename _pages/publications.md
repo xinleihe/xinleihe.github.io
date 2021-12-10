@@ -25,8 +25,14 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 
 
 ### 2022
+<b><font color="#19B4F3">Model Stealing Attacks Against Inductive Graph Neural Networks</font></b>
+<br>Yun Shen*, **Xinlei He***, Yufei Han, Yang Zhang (* equal contribution)
+<br>In IEEE Symposium on Security and Privacy (S&P 2022)
+<br>[[pdf]]()
+
+
 <b><font color="#19B4F3">ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models</font></b>
-<br>Yugeng Liu, Rui Wen, **Xinlei He**, Ahmed Salem, Zhikun Zhang, Michael Backes, Emiliano De Cristofaro, Mario Fritz, Yang Zhang. 
+<br>Yugeng Liu, Rui Wen, **Xinlei He**, Ahmed Salem, Zhikun Zhang, Michael Backes, Emiliano De Cristofaro, Mario Fritz, Yang Zhang
 <br>In USENIX Security Symposium (USENIX Security 2022)
 <br>[[pdf]](https://arxiv.org/abs/2102.02551)
 
@@ -35,23 +41,23 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 ### 2021
 
 <b><font color="#19B4F3">Quantifying and Mitigating Privacy Risks of Contrastive Learning</font></b>
-<br>**Xinlei He**, Yang Zhang. 
+<br>**Xinlei He**, Yang Zhang
 <br>In ACM SIGSAC Conference on Computer and Communications Security (CCS 2021)
 <br>[[pdf]](https://arxiv.org/abs/2102.04140)
 
 <b><font color="#19B4F3">Stealing Links from Graph Neural Networks</font></b>
-<br>**Xinlei He**, Jinyuan Jia, Michael Backes, Neil Zhenqiang Gong, Yang Zhang. 
+<br>**Xinlei He**, Jinyuan Jia, Michael Backes, Neil Zhenqiang Gong, Yang Zhang
 <br>In USENIX Security Symposium (USENIX Security 2021)
 <br>[[pdf]](https://arxiv.org/abs/2005.02131)
 
 <b><font color="#19B4F3">Trimming Mobile Applications for Bandwidth-Challenged Networks in Developing Regions</font></b>
-<br>Qinge Xie, Qingyuan Gong, **Xinlei He**, Yang Chen, Xin Wang, Haitao Zheng, Ben Y. Zhao.
+<br>Qinge Xie, Qingyuan Gong, **Xinlei He**, Yang Chen, Xin Wang, Haitao Zheng, Ben Y. Zhao
 <br>To appear: IEEE Transactions on Mobile Computing (TMC)
 <br>[[pdf]](https://arxiv.org/abs/1912.01328)
 
 
 <b><font color="#19B4F3">DatingSec: Detecting Malicious Accounts in Dating Apps Using a Content-Based Attention Network</font></b>
-<br>**Xinlei He**, Qingyuan Gong, Yang Chen, Yang Zhang, Xin Wang, Xiaoming Fu.
+<br>**Xinlei He**, Qingyuan Gong, Yang Chen, Yang Zhang, Xin Wang, Xiaoming Fu
 <br>To appear: IEEE Transactions on Dependable and Secure Computing (TDSC)
 <br>[[pdf]]()
 
@@ -59,14 +65,14 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 ### Prior to PhD:
 
 <b><font color="#19B4F3">Cross-Site Prediction on Social Influence for Cold-Start Users in Online Social Networks</font></b>
-<br>Qingyuan Gong, Yang Chen, **Xinlei He**, Yu Xiao, Pan Hui, Xin Wang, Xiaoming Fu.
+<br>Qingyuan Gong, Yang Chen, **Xinlei He**, Yu Xiao, Pan Hui, Xin Wang, Xiaoming Fu
 To appear: ACM Transactions on the Web (TWEB).
 (DOI: 10.1145/3409108)
 <br>[[pdf]]()
 
 
 <b><font color="#19B4F3">DeepScan: Exploiting Deep Learning for Malicious Account Detection in Location-Based Social Networks</font></b>
-<br>Qingyuan Gong, Yang Chen, **Xinlei He**, Zhou Zhuang, Tianyi Wang, Hong Huang, Xin Wang, Xiaoming Fu. 
+<br>Qingyuan Gong, Yang Chen, **Xinlei He**, Zhou Zhuang, Tianyi Wang, Hong Huang, Xin Wang, Xiaoming Fu
 To appear: IEEE Communications Magazine (IF: 10.435)
 <br>[[pdf]](https://user.informatik.uni-goettingen.de/~ychen/papers/DeepScan-COMMAG18.pdf)
 
