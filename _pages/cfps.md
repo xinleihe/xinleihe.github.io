@@ -7,13 +7,11 @@ author_profile: true
 
 
 
-Following my advisor Yang Zhang, I maintain a list of deadlines for conferences that I am interested in :D
+Regarding security conference deadline, you can also [check here](https://sec-deadlines.github.io/){:target="_blank"}.
 
-Regarding security conference deadline, you can also [check here](https://sec-deadlines.github.io/).
+Regarding AI conference deadline, you can also [check here](https://aideadlin.es){:target="_blank"}.
 
-Regarding AI conference deadline, you can also [check here](https://aideadlin.es).
-
-### Upcoming
+<!-- ### Upcoming
 
 |Name|Deadline|Page|Location|Format|
 |:-:|:-:|:-:|:-:|:-:|
@@ -31,5 +29,5 @@ Regarding AI conference deadline, you can also [check here](https://aideadlin.es
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |[CCS 2021](https://www.sigsac.org/ccs/CCS2021/)                            | 2021-01-20                | 12 +  | Seoul         | ACM    |
 |[USENIX Security 2021](https://www.usenix.org/conference/usenixsecurity21) | 2021-02-04                | 13 +  | Vancouver     | USENIX |
-
+ -->
 
