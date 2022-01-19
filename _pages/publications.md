@@ -67,7 +67,7 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 <b><font color="#19B4F3">Cross-Site Prediction on Social Influence for Cold-Start Users in Online Social Networks</font></b>
 <br>Qingyuan Gong, Yang Chen, **Xinlei He**, Yu Xiao, Pan Hui, Xin Wang, Xiaoming Fu
 To appear: ACM Transactions on the Web (TWEB).
-(DOI: 10.1145/3409108)
+(Selected for oral presentation in [the Web Conference 2022](https://www2022.thewebconf.org/))
 <br>[[pdf]]()
 
 
