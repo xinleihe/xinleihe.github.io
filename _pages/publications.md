@@ -19,7 +19,8 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 ### Preprint
 <b><font color="#19B4F3">Node-Level Membership Inference Attacks Against Graph Neural Networks</font></b>
 <br>**Xinlei He**, Rui Wen, Yixin Wu, Michael Backes, Yun Shen, Yang Zhang
-<br><a href="https://arxiv.org/abs/2102.05429" class="btn--blue" target="_blank">arxiv</a>
+<br><a class="btn btn-blue" href="https://arxiv.org/abs/2102.05429">arxiv</a>
+<!-- <a href="https://arxiv.org/abs/2102.05429" class="btn--blue" target="_blank">arxiv</a> -->
 
 
 
@@ -51,13 +52,19 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 <b><font color="#19B4F3">Quantifying and Mitigating Privacy Risks of Contrastive Learning</font></b>
 <br>**Xinlei He**, Yang Zhang
 <br>In ACM SIGSAC Conference on Computer and Communications Security (CCS 2021)
-<br>[Paper](https://arxiv.org/abs/2102.04140){: .btn .btn-blue}
+<br>
+<a href="https://arxiv.org/abs/2102.04140" class="btn--danger" target="_blank">paper</a>
+<a href="https://github.com/xinleihe/ContrastiveLeaks" class="btn--danger" target="_blank">code</a>
+<!-- [Paper](https://arxiv.org/abs/2102.04140){: .btn .btn-blue} -->
 <!-- [Code]{https://github.com/xinleihe/ContrastiveLeaks}{: .btn .btn-blue} -->
 
 <b><font color="#19B4F3">Stealing Links from Graph Neural Networks</font></b>
 <br>**Xinlei He**, Jinyuan Jia, Michael Backes, Neil Zhenqiang Gong, Yang Zhang
 <br>In USENIX Security Symposium (USENIX Security 2021)
-<br>[[pdf]](https://arxiv.org/abs/2005.02131)
+<br>
+<a href="https://arxiv.org/abs/2102.04140" class="btn--danger" target="_blank">paper</a>
+<a href="https://github.com/xinleihe/ContrastiveLeaks" class="btn--danger" target="_blank">code</a>
+[[pdf]](https://arxiv.org/abs/2005.02131)
 
 <b><font color="#19B4F3">Trimming Mobile Applications for Bandwidth-Challenged Networks in Developing Regions</font></b>
 <br>Qinge Xie, Qingyuan Gong, **Xinlei He**, Yang Chen, Xin Wang, Haitao Zheng, Ben Y. Zhao
