@@ -19,7 +19,7 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 ### Preprint
 <b><font color="#19B4F3">Node-Level Membership Inference Attacks Against Graph Neural Networks</font></b>
 <br>**Xinlei He**, Rui Wen, Yixin Wu, Michael Backes, Yun Shen, Yang Zhang
-<br><a href="https://arxiv.org/abs/2102.05429" class="btn--danger" target="_blank">arxiv</a>
+<br><a href="https://arxiv.org/abs/2102.05429" class="btn--blue" target="_blank">arxiv</a>
 
 
 
@@ -28,16 +28,21 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 <b><font color="#19B4F3">Model Stealing Attacks Against Inductive Graph Neural Networks</font></b>
 <br>Yun Shen\*, <strong>Xinlei He\*</strong>, Yufei Han, Yang Zhang (* Equal contribution)
 <br>In IEEE Symposium on Security and Privacy (S&P 2022)
-<br>[Paper](https://arxiv.org/abs/2112.08331){: .btn .btn-blue } 
-<!-- [Code]{https://github.com/xinleihe/GNNStealing}{: .btn .btn-blue } -->
+<br>
+<a href="https://arxiv.org/abs/2112.08331" class="btn--danger" target="_blank">paper</a>
+<a href="https://github.com/xinleihe/GNNStealing" class="btn--danger" target="_blank">code</a>
+
 
 
 <b><font color="#19B4F3">ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models</font></b>
 <br>Yugeng Liu, Rui Wen, **Xinlei He**, Ahmed Salem, Zhikun Zhang, Michael Backes, Emiliano De Cristofaro, Mario Fritz, Yang Zhang
 <br>In USENIX Security Symposium (USENIX Security 2022)
 <br>
-[Paper](https://arxiv.org/abs/2102.02551){: .btn .btn-blue} 
-<!-- [Code]{https://github.com/liuyugeng/ML-Doctor}{: .btn .btn-blue} -->
+<a href="https://arxiv.org/abs/2102.02551" class="btn--danger" target="_blank">paper</a>
+<a href="https://github.com/liuyugeng/ML-Doctor" class="btn--danger" target="_blank">code</a>
+
+<!-- [Paper](https://arxiv.org/abs/2102.02551){: .btn .btn-blue} 
+[Code]{https://github.com/liuyugeng/ML-Doctor}{: .btn .btn-blue} -->
 
 
 
