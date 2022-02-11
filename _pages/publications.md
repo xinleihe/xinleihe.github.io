@@ -28,13 +28,13 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 <b><font color="#19B4F3">Model Stealing Attacks Against Inductive Graph Neural Networks</font></b>
 <br>Yun Shen\*, <strong>Xinlei He\*</strong>, Yufei Han, Yang Zhang (* Equal contribution)
 <br>In IEEE Symposium on Security and Privacy (S&P 2022)
-<br>[[pdf]]()
+<br>[Paper](https://arxiv.org/abs/2112.08331){: .btn .btn-blue } [code]{https://github.com/xinleihe/GNNStealing}{: .btn .btn-blue }
 
 
 <b><font color="#19B4F3">ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models</font></b>
 <br>Yugeng Liu, Rui Wen, **Xinlei He**, Ahmed Salem, Zhikun Zhang, Michael Backes, Emiliano De Cristofaro, Mario Fritz, Yang Zhang
 <br>In USENIX Security Symposium (USENIX Security 2022)
-<br>[[pdf]](https://arxiv.org/abs/2102.02551)
+<br>[Paper](https://arxiv.org/abs/2102.02551)
 
 
 
