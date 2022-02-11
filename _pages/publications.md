@@ -19,7 +19,7 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 ### Preprint
 <b><font color="#19B4F3">Node-Level Membership Inference Attacks Against Graph Neural Networks</font></b>
 <br>**Xinlei He**, Rui Wen, Yixin Wu, Michael Backes, Yun Shen, Yang Zhang
-<br>[[arxiv]](https://arxiv.org/abs/2102.05429)
+<br><a href="https://arxiv.org/abs/2102.05429" class="btn--danger" target="_blank">arxiv</a>
 
 
 
@@ -29,7 +29,7 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 <br>Yun Shen\*, <strong>Xinlei He\*</strong>, Yufei Han, Yang Zhang (* Equal contribution)
 <br>In IEEE Symposium on Security and Privacy (S&P 2022)
 <br>[Paper](https://arxiv.org/abs/2112.08331){: .btn .btn-blue } 
-[Code]{https://github.com/xinleihe/GNNStealing}{: .btn .btn-blue }
+<!-- [Code]{https://github.com/xinleihe/GNNStealing}{: .btn .btn-blue } -->
 
 
 <b><font color="#19B4F3">ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models</font></b>
@@ -37,7 +37,7 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 <br>In USENIX Security Symposium (USENIX Security 2022)
 <br>
 [Paper](https://arxiv.org/abs/2102.02551){: .btn .btn-blue} 
-[Code]{https://github.com/liuyugeng/ML-Doctor}{: .btn .btn-blue}
+<!-- [Code]{https://github.com/liuyugeng/ML-Doctor}{: .btn .btn-blue} -->
 
 
 
@@ -47,7 +47,7 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 <br>**Xinlei He**, Yang Zhang
 <br>In ACM SIGSAC Conference on Computer and Communications Security (CCS 2021)
 <br>[Paper](https://arxiv.org/abs/2102.04140){: .btn .btn-blue}
-[Code]{https://github.com/xinleihe/ContrastiveLeaks}{: .btn .btn-blue}
+<!-- [Code]{https://github.com/xinleihe/ContrastiveLeaks}{: .btn .btn-blue} -->
 
 <b><font color="#19B4F3">Stealing Links from Graph Neural Networks</font></b>
 <br>**Xinlei He**, Jinyuan Jia, Michael Backes, Neil Zhenqiang Gong, Yang Zhang
