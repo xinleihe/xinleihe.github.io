@@ -69,13 +69,14 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 <b><font color="#19B4F3">Trimming Mobile Applications for Bandwidth-Challenged Networks in Developing Regions</font></b>
 <br>Qinge Xie, Qingyuan Gong, **Xinlei He**, Yang Chen, Xin Wang, Haitao Zheng, Ben Y. Zhao
 <br>To appear: IEEE Transactions on Mobile Computing (TMC)
-<br>[[pdf]](https://arxiv.org/abs/1912.01328)
+<br><a href="https://arxiv.org/abs/1912.01328" class="btn btn-primary" target="_blank">paper</a>
+<!-- [[pdf]](https://arxiv.org/abs/1912.01328) -->
 
 
 <b><font color="#19B4F3">DatingSec: Detecting Malicious Accounts in Dating Apps Using a Content-Based Attention Network</font></b>
 <br>**Xinlei He**, Qingyuan Gong, Yang Chen, Yang Zhang, Xin Wang, Xiaoming Fu
 <br>To appear: IEEE Transactions on Dependable and Secure Computing (TDSC)
-<br>[[pdf]]()
+<br><a href="https://ieeexplore.ieee.org/document/9384217" class="btn btn-primary" target="_blank">paper</a>
 
 
 ### Prior to PhD:
@@ -84,13 +85,14 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 <br>Qingyuan Gong, Yang Chen, **Xinlei He**, Yu Xiao, Pan Hui, Xin Wang, Xiaoming Fu
 To appear: ACM Transactions on the Web (TWEB).
 (Selected for oral presentation in [the Web Conference 2022](https://www2022.thewebconf.org/))
-<br>[[pdf]]()
+<br><a href="https://dl.acm.org/doi/10.1145/3409108" class="btn btn-primary" target="_blank">paper</a>
 
 
 <b><font color="#19B4F3">DeepScan: Exploiting Deep Learning for Malicious Account Detection in Location-Based Social Networks</font></b>
 <br>Qingyuan Gong, Yang Chen, **Xinlei He**, Zhou Zhuang, Tianyi Wang, Hong Huang, Xin Wang, Xiaoming Fu
 To appear: IEEE Communications Magazine (IF: 10.435)
-<br>[[pdf]](https://user.informatik.uni-goettingen.de/~ychen/papers/DeepScan-COMMAG18.pdf)
+<br><a href="https://user.informatik.uni-goettingen.de/~ychen/papers/DeepScan-COMMAG18.pdf" class="btn btn-primary" target="_blank">paper</a>
+<!-- [[pdf]](https://user.informatik.uni-goettingen.de/~ychen/papers/DeepScan-COMMAG18.pdf) -->
 
 <!-- <b>Understanding the Behavioral Differences Between American and German Users: A Data-Driven Study.</b><br>
 Chenxi Yang, Yang Chen, Qingyuan Gong, **Xinlei He**, Yu Xiao, Yuhuan Huang, Xiaoming Fu.
