@@ -42,8 +42,12 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 <a href="https://arxiv.org/abs/2102.02551" class="btn btn-primary" target="_blank">paper</a>
 <a href="https://github.com/liuyugeng/ML-Doctor" class="btn btn-primary" target="_blank">code</a>
 
-<!-- [Paper](https://arxiv.org/abs/2102.02551){: .btn .btn-blue} 
-[Code]{https://github.com/liuyugeng/ML-Doctor}{: .btn .btn-blue} -->
+<b><font color="#19B4F3">On Xing Tian and the Perseverance of Anti-China Sentiment Online</font></b>
+<br>Xinyue Shen, **Xinlei He**, Michael Backes, Jeremy Blackburn, Savvas Zannettou, Yang Zhang
+<br>In International Conference on Web and Social Media (ICWSM 2022)
+<br>
+<a href="" class="btn btn-primary" target="_blank">paper</a>
+
 
 
 
