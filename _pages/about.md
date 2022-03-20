@@ -22,7 +22,7 @@ Research Interests
 - Social Network Analysis
 <br><br><br>
 
-What’s New
+Recent News
 ======
 
 - [March 2022] One paper titled “On Xing Tian and the Perseverance of Anti-China Sentiment Online” got accepted in [ICWSM](https://www.icwsm.org/2022/index.html/) 2022!
