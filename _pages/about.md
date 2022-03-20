@@ -25,8 +25,8 @@ Research Interests
 What’s New
 ======
 
-- [March 2022] Got The Norton Labs Graduate Fellowship (2022)!
 - [March 2022] One paper titled “On Xing Tian and the Perseverance of Anti-China Sentiment Online” got accepted in [ICWSM](https://www.icwsm.org/2022/index.html/) 2022!
+- [March 2022] I Got The Norton Labs Graduate Fellowship (2022)!
 - [December 2021] One paper titled "Model Stealing Attacks Against Inductive Graph Neural Networks" got accepted in [Oakland 2022](https://www.ieee-security.org/TC/SP2022/){:target="_blank"}!
 - [September 2021] One paper titled "ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models" got accepted in [USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22){:target="_blank"}!
 - [September 2021] One paper titled "Quantifying and Mitigating Privacy Risks of Contrastive Learning" got accepted in [CCS 2021](https://www.sigsac.org/ccs/CCS2021/){:target="_blank"}!
