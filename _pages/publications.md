@@ -26,6 +26,23 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 
 
 ### 2022
+
+<b><font color="#19B4F3">SSLGuard: A Watermarking Scheme for Self-supervised Learning Pre-trained Encoders</font></b>
+<br>Tianshuo Cong, **Xinlei He**, Yang Zhang
+<br>In ACM SIGSAC Conference on Computer and Communications Security (CCS 2022)
+<br>
+<a href="https://arxiv.org/abs/2201.11692" class="btn btn-primary" target="_blank">paper</a>
+<!-- <a href="https://github.com/xinleihe/GNNStealing" class="btn btn-primary" target="_blank">code</a> -->
+
+<b><font color="#19B4F3">Auditing Membership Leakages of Multi-Exit Networks</font></b>
+<br>Zheng Li, Yiyong Liu, **Xinlei He**, Ning Yu, Michael Backes, Yang Zhang
+<br>In ACM SIGSAC Conference on Computer and Communications Security (CCS 2022)
+<br>
+<a href="" class="btn btn-primary" target="_blank">paper</a>
+<!-- <a href="https://github.com/xinleihe/GNNStealing" class="btn btn-primary" target="_blank">code</a> -->
+
+
+
 <b><font color="#19B4F3">Model Stealing Attacks Against Inductive Graph Neural Networks</font></b>
 <br>Yun Shen\*, <strong>Xinlei He\*</strong>, Yufei Han, Yang Zhang (* Equal contribution)
 <br>In IEEE Symposium on Security and Privacy (S&P 2022)
@@ -46,7 +63,7 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 <br>Xinyue Shen, **Xinlei He**, Michael Backes, Jeremy Blackburn, Savvas Zannettou, Yang Zhang
 <br>In International Conference on Web and Social Media (ICWSM 2022)
 <br>
-<a href="" class="btn btn-primary" target="_blank">paper</a>
+<a href="https://arxiv.org/abs/2204.08935" class="btn btn-primary" target="_blank">paper</a>
 
 
 
