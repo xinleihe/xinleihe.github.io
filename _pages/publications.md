@@ -4,6 +4,16 @@ permalink: /publications/
 author_profile: true
 ---
 
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+}
+
+
 You can also find my publications on <u><a href="https://scholar.google.com/citations?user=6hZNEtoAAAAJ">Google Scholar</a>.</u>
 
 
@@ -20,8 +30,10 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 ### 2022
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">SSLGuard: A Watermarking Scheme for Self-supervised Learning Pre-trained Encoders</span></font>  
-<font size="3">Tianshuo Cong, <b>Xinlei He</b>, Yang Zhang; <i>CCS 2022</i></font>  
-[pdf](){: .btn--danger}{:target="_blank"} [arxiv](https://arxiv.org/abs/2201.11692){: .btn--danger}{:target="_blank"} [code](){: .btn--danger}{:target="_blank"}
+<font size="3">Tianshuo Cong, <b>Xinlei He</b>, Yang Zhang; <i>CCS 2022</i></font>
+<a href="https://arxiv.org/abs/2201.11692" class="btn btn-primary">paper</a>
+<a href="" class="btn btn-primary">code</a>
+<!-- [pdf](){: .btn--danger}{:target="_blank"} [arxiv](https://arxiv.org/abs/2201.11692){: .btn--danger}{:target="_blank"} [code](){: .btn--danger}{:target="_blank"} -->
 
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">Auditing Membership Leakages of Multi-Exit Networks</span></font>  
