@@ -4,15 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-a.button {
-    -webkit-appearance: button;
-    -moz-appearance: button;
-    appearance: button;
-
-    text-decoration: none;
-    color: initial;
-}
-
 
 You can also find my publications on <u><a href="https://scholar.google.com/citations?user=6hZNEtoAAAAJ">Google Scholar</a>.</u>
 
