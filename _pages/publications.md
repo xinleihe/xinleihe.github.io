@@ -28,27 +28,27 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">SSLGuard: A Watermarking Scheme for Self-supervised Learning Pre-trained Encoders</span></font>  
 <font size="3">Tianshuo Cong, <b>Xinlei He</b>, Yang Zhang; <i>CCS 2022</i></font>  
-[pdf](){: .btn-light}{:target="_blank"} [arxiv](https://arxiv.org/abs/2201.11692){: .btn-light}{:target="_blank"} [code](){: .btn-light}{:target="_blank"}
+[pdf](){: .btn--light}{:target="_blank"} [arxiv](https://arxiv.org/abs/2201.11692){: .btn--light}{:target="_blank"} [code](){: .btn--light}{:target="_blank"}
 
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">Auditing Membership Leakages of Multi-Exit Networks</span></font>  
 <font size="3">Zheng Li, Yiyong Liu, <b>Xinlei He</b>, Ning Yu, Michael Backes, Yang Zhang; <i>CCS 2022</i></font>  
-[pdf](){: .btn-light}{:target="_blank"} [arxiv](){: .btn-light}{:target="_blank"} [code](){: .btn-light}{:target="_blank"}
+[pdf](){: .btn--light}{:target="_blank"} [arxiv](){: .btn--light}{:target="_blank"} [code](){: .btn--light}{:target="_blank"}
 
 
 ### <font size="3"><font size="3"><span style="color:rgb(0, 119, 181)">Model Stealing Attacks Against Inductive Graph Neural Networks</span></font>  
 <font size="3">Yun Shen*, <b>Xinlei He*</b>, Yufei Han, Yang Zhang (* Equal Contribution); <i>S&P 2022</i></font>  
-[pdf](){: .btn-light}{:target="_blank"} [arxiv](https://arxiv.org/abs/2112.08331){: .btn-light}{:target="_blank"} [code](https://github.com/xinleihe/GNNStealing){: .btn-light}{:target="_blank"}  
+[pdf](){: .btn--light}{:target="_blank"} [arxiv](https://arxiv.org/abs/2112.08331){: .btn--light}{:target="_blank"} [code](https://github.com/xinleihe/GNNStealing){: .btn--light}{:target="_blank"}  
 
 
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models</span></font>  
 <font size="3">Yugeng Liu, Rui Wen, <b>Xinlei He</b>, Ahmed Salem, Zhikun Zhang, Michael Backes, Emiliano De Cristofaro, Mario Fritz, Yang Zhang; <i>USENIX Security 2022</i></font>  
-[pdf](http://yangzhangalmo.github.io/papers/USENIXSECURITY22-MLDoctor.pdf){: .btn-light}{:target="_blank"} [arxiv](https://arxiv.org/abs/2102.02551){: .btn-light}{:target="_blank"} [code](https://github.com/liuyugeng/ML-Doctor){: .btn-light}{:target="_blank"}  
+[pdf](http://yangzhangalmo.github.io/papers/USENIXSECURITY22-MLDoctor.pdf){: .btn--light}{:target="_blank"} [arxiv](https://arxiv.org/abs/2102.02551){: .btn--light}{:target="_blank"} [code](https://github.com/liuyugeng/ML-Doctor){: .btn--light}{:target="_blank"}  
 
 ### <font size="3"><font size="3"><span style="color:rgb(0, 119, 181)">On Xing Tian and the Perseverance of Anti-China Sentiment Online</span></font>  
 <font size="3">Xinyue Shen, <b>Xinlei He</b>, Michael Backes, Jeremy Blackburn, Savvas Zannettou, Yang Zhang; <i>ICWSM 2022</i></font>  
-[pdf](http://yangzhangalmo.github.io/papers/ICWSM22.pdf){: .btn-light}{:target="_blank"} [arxiv](https://arxiv.org/abs/2204.08935){: .btn-light}{:target="_blank"}  
+[pdf](http://yangzhangalmo.github.io/papers/ICWSM22.pdf){: .btn--light}{:target="_blank"} [arxiv](https://arxiv.org/abs/2204.08935){: .btn--light}{:target="_blank"}  
 
 <!-- <b><font color="#19B4F3">ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models</font></b>
 <br>Yugeng Liu, Rui Wen, **Xinlei He**, Ahmed Salem, Zhikun Zhang, Michael Backes, Emiliano De Cristofaro, Mario Fritz, Yang Zhang
@@ -70,11 +70,11 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">Quantifying and Mitigating Privacy Risks of Contrastive Learning</span></font>  
 <font size="3"><b>Xinlei He</b>, Yang Zhang; <i>CCS 2021</i></font>  
-[pdf](http://yangzhangalmo.github.io/papers/CCS21-ContrastivePrivacy.pdf){: .btn-light}{:target="_blank"} [arxiv](https://arxiv.org/abs/2102.04140){: .btn-light}{:target="_blank"} [code](https://github.com/xinleihe/ContrastiveLeaks){: .btn-light}{:target="_blank"}
+[pdf](http://yangzhangalmo.github.io/papers/CCS21-ContrastivePrivacy.pdf){: .btn--light}{:target="_blank"} [arxiv](https://arxiv.org/abs/2102.04140){: .btn--light}{:target="_blank"} [code](https://github.com/xinleihe/ContrastiveLeaks){: .btn--light}{:target="_blank"}
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">Stealing Links from Graph Neural Networks</span></font>  
 <font size="3"><b>Xinlei He</b>, Jinyuan Jia, Michael Backes, Neil Zhenqiang Gong, Yang Zhang; <i>USENIX Security 2021</i></font>  
-[pdf](http://yangzhangalmo.github.io/papers/USENIXSECURITY21-StealingLinks.pdf){: .btn-light}{:target="_blank"} [arxiv](https://arxiv.org/abs/2005.02131){: .btn-light}{:target="_blank"} [code](https://github.com/xinleihe/link_stealing_attack){: .btn-light}{:target="_blank"}
+[pdf](http://yangzhangalmo.github.io/papers/USENIXSECURITY21-StealingLinks.pdf){: .btn--light}{:target="_blank"} [arxiv](https://arxiv.org/abs/2005.02131){: .btn--light}{:target="_blank"} [code](https://github.com/xinleihe/link_stealing_attack){: .btn--light}{:target="_blank"}
 
 <!-- <b><font color="#19B4F3">Quantifying and Mitigating Privacy Risks of Contrastive Learning</font></b>
 <br>**Xinlei He**, Yang Zhang
@@ -96,11 +96,11 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">Trimming Mobile Applications for Bandwidth-Challenged Networks in Developing Regions</span></font>  
 <font size="3">Qinge Xie, Qingyuan Gong, <b>Xinlei He</b>, Yang Chen, Xin Wang, Haitao Zheng, Ben Y. Zhao; <i>IEEE Transactions on Mobile Computing (TMC)</i></font>  
-[arxiv](https://arxiv.org/abs/1912.01328){: .btn-light}{:target="_blank"}
+[arxiv](https://arxiv.org/abs/1912.01328){: .btn--light}{:target="_blank"}
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">DatingSec: Detecting Malicious Accounts in Dating Apps Using a Content-Based Attention Network</span></font>  
 <font size="3"><b>Xinlei He</b>, Qingyuan Gong, Yang Chen, Yang Zhang, Xin Wang, Xiaoming Fu; <i>IEEE Transactions on Dependable and Secure Computing (TDSC)</i></font>  
-[pdf](https://ieeexplore.ieee.org/document/938421){: .btn-light}{:target="_blank"}
+[pdf](https://ieeexplore.ieee.org/document/938421){: .btn--light}{:target="_blank"}
 
 
 
@@ -114,11 +114,11 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">Cross-Site Prediction on Social Influence for Cold-Start Users in Online Social Networks</span></font>  
 <font size="3">Qingyuan Gong, Yang Chen, <b>Xinlei He</b>, Yu Xiao, Pan Hui, Xin Wang, Xiaoming Fu; <i>ACM Transactions on the Web (TWEB)</i></font>  
-[pdf](https://dl.acm.org/doi/10.1145/3409108){: .btn-light}{:target="_blank"}
+[pdf](https://dl.acm.org/doi/10.1145/3409108){: .btn--light}{:target="_blank"}
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">DeepScan: Exploiting Deep Learning for Malicious Account Detection in Location-Based Social Networks</span></font>  
 <font size="3">Qingyuan Gong, Yang Chen, <b>Xinlei He</b>, Zhou Zhuang, Tianyi Wang, Hong Huang, Xin Wang, Xiaoming Fu; <i>IEEE Communications Magazine</i></font>  
-[pdf](https://user.informatik.uni-goettingen.de/~ychen/papers/DeepScan-COMMAG18.pdf){: .btn-light}{:target="_blank"}
+[pdf](https://user.informatik.uni-goettingen.de/~ychen/papers/DeepScan-COMMAG18.pdf){: .btn--light}{:target="_blank"}
 
 
 <!-- <b><font color="#19B4F3">Cross-Site Prediction on Social Influence for Cold-Start Users in Online Social Networks</font></b>
