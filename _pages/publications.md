@@ -21,6 +21,11 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 
 ### 2022
 
+### <font size="3"><span style="color:rgb(0, 119, 181)">Semi-Leak: Membership Inference Attacks Against Semi-supervised Learning</span></font>  
+<font size="3"><b>Xinlei He</b>, Hongbin Liu, Neil Zhenqiang Gong, Yang Zhang; <i>ECCV 2022</i></font>
+<!-- [[paper]]()  -->
+
+
 ### <font size="3"><span style="color:rgb(0, 119, 181)">SSLGuard: A Watermarking Scheme for Self-supervised Learning Pre-trained Encoders</span></font>  
 <font size="3">Tianshuo Cong, <b>Xinlei He</b>, Yang Zhang; <i>CCS 2022</i></font>
 [[paper]](https://arxiv.org/abs/2201.11692) 

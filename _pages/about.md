@@ -24,7 +24,7 @@ Research Interests
 
 Recent News
 ======
-
+- [July 2022] One paper titled “Semi-Leak: Membership Inference Attacks Against Semi-supervised Learning” got accepted in [ECCV 2022](https://eccv2022.ecva.net/)!
 - [April 2022] One paper titled “SSLGuard: A Watermarking Scheme for Self-supervised Learning Pre-trained Encoders” got accepted in [CCS 2022](https://www.sigsac.org/ccs/CCS2022/)!
 - [April 2022] One paper titled “Auditing Membership Leakages of Multi-Exit Networks” got accepted in [CCS 2022](https://www.sigsac.org/ccs/CCS2022/)!
 - [March 2022] One paper titled “On Xing Tian and the Perseverance of Anti-China Sentiment Online” got accepted in [ICWSM](https://www.icwsm.org/2022/index.html/) 2022!
