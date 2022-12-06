@@ -18,6 +18,10 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 <!-- <a href="https://arxiv.org/abs/2102.05429" class="btn--blue" target="_blank">arxiv</a> -->
 
 
+### 2023
+### <font size="3"><span style="color:rgb(0, 119, 181)">On the Evolution of (Hateful) Memes by Means of Multimodal Contrastive Learning</span></font>  
+<font size="3">Yiting Qu, <b>Xinlei He</b>, Shannon Pierson, Michael Backes, Yang Zhang, Savvas Zannettou; <i>S&P 2023</i></font>
+[[paper]]() 
 
 ### 2022
 

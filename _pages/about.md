@@ -24,6 +24,7 @@ Research Interests
 
 Recent News
 ======
+- [November 2022] One paper titled “On the Evolution of (Hateful) Memes by Means of Multimodal Contrastive Learning” got accepted in [Oakland 2023](https://www.ieee-security.org/TC/SP2023/)!
 - [July 2022] One paper titled “Semi-Leak: Membership Inference Attacks Against Semi-supervised Learning” got accepted in [ECCV 2022](https://eccv2022.ecva.net/)!
 - [April 2022] One paper titled “SSLGuard: A Watermarking Scheme for Self-supervised Learning Pre-trained Encoders” got accepted in [CCS 2022](https://www.sigsac.org/ccs/CCS2022/)!
 - [April 2022] One paper titled “Auditing Membership Leakages of Multi-Exit Networks” got accepted in [CCS 2022](https://www.sigsac.org/ccs/CCS2022/)!
