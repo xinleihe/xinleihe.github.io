@@ -16,6 +16,8 @@ Prior to that, I obtained my bachelor (2017) and master (2020) degrees from Fuda
 
 
 
+
+
 Research Interests
 ======
 - Security and Privacy of Machine Learning
@@ -30,7 +32,7 @@ Recent News
 - [April 2022] One paper titled “SSLGuard: A Watermarking Scheme for Self-supervised Learning Pre-trained Encoders” got accepted in [CCS 2022](https://www.sigsac.org/ccs/CCS2022/)!
 - [April 2022] One paper titled “Auditing Membership Leakages of Multi-Exit Networks” got accepted in [CCS 2022](https://www.sigsac.org/ccs/CCS2022/)!
 - [March 2022] One paper titled “On Xing Tian and the Perseverance of Anti-China Sentiment Online” got accepted in [ICWSM](https://www.icwsm.org/2022/index.html/) 2022!
-- [March 2022] I Got The Norton Labs Graduate Fellowship (2022)!
+- [March 2022] I Got The [Norton Labs Graduate Fellowship (2022)](https://www.nortonlifelock.com/us/en/research-labs/news/2022-fellowship-winners/)!
 - [December 2021] One paper titled "Model Stealing Attacks Against Inductive Graph Neural Networks" got accepted in [Oakland 2022](https://www.ieee-security.org/TC/SP2022/){:target="_blank"}!
 - [September 2021] One paper titled "ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models" got accepted in [USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22){:target="_blank"}!
 - [September 2021] One paper titled "Quantifying and Mitigating Privacy Risks of Contrastive Learning" got accepted in [CCS 2021](https://www.sigsac.org/ccs/CCS2021/){:target="_blank"}!
