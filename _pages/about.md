@@ -24,6 +24,8 @@ Research Interests
 - Social Network Analysis
 <br><br><br>
 
+<span style="color:rgb(0, 119, 181)"><b>I'm looking for jobs from both acadamia and industry! Please email me (xinlei.he@cispa.de) if you think I'd be a good fit for your team.</b></span>
+
 Recent News
 ======
 - [February 2023] One paper titled “A Plot is Worth a Thousand Words: Model Information Stealing Attacks via Scientific Plots” got accepted in [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23)!
