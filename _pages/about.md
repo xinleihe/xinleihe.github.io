@@ -24,6 +24,7 @@ Research Interests
 
 Recent News
 ======
+- [February 2023] One paper titled “A Plot is Worth a Thousand Words: Model Information Stealing Attacks via Scientific Plots” got accepted in [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23)!
 - [November 2022] One paper titled “On the Evolution of (Hateful) Memes by Means of Multimodal Contrastive Learning” got accepted in [Oakland 2023](https://www.ieee-security.org/TC/SP2023/)!
 - [July 2022] One paper titled “Semi-Leak: Membership Inference Attacks Against Semi-supervised Learning” got accepted in [ECCV 2022](https://eccv2022.ecva.net/)!
 - [April 2022] One paper titled “SSLGuard: A Watermarking Scheme for Self-supervised Learning Pre-trained Encoders” got accepted in [CCS 2022](https://www.sigsac.org/ccs/CCS2022/)!

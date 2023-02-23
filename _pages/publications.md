@@ -19,9 +19,14 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 
 
 ### 2023
+
+### <font size="3"><span style="color:rgb(0, 119, 181)">On the Evolution of (Hateful) Memes by Means of Multimodal Contrastive Learning</span></font>  
+<font size="3">Boyang Zhang, <b>Xinlei He</b>, Yun Shen, Tianhao Wang, Yang Zhang; <i>USENIX Security 2023</i></font>
+[[paper]]() 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">On the Evolution of (Hateful) Memes by Means of Multimodal Contrastive Learning</span></font>  
 <font size="3">Yiting Qu, <b>Xinlei He</b>, Shannon Pierson, Michael Backes, Yang Zhang, Savvas Zannettou; <i>S&P 2023</i></font>
-[[paper]]() 
+[[paper]](https://arxiv.org/abs/2212.06573)
+[[code]](https://github.com/YitingQu/meme-evolution)
 
 ### 2022
 
