@@ -90,7 +90,7 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">DatingSec: Detecting Malicious Accounts in Dating Apps Using a Content-Based Attention Network</span></font>  
 <font size="3"><b>Xinlei He</b>, Qingyuan Gong, Yang Chen, Yang Zhang, Xin Wang, Xiaoming Fu; <i>IEEE Transactions on Dependable and Secure Computing (TDSC)</i></font>
-[[paper]](https://ieeexplore.ieee.org/document/938421)
+[[paper]](https://ieeexplore.ieee.org/document/9384217)
 
 
 ### Prior to PhD:
