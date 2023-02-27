@@ -23,10 +23,10 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 ### <font size="3"><span style="color:rgb(0, 119, 181)">Can't Steal? Cont-Steal! Contrastive Stealing Attacks Against Image Encoders</span></font>  
 <font size="3">Zeyang Sha, <b>Xinlei He</b>, Ning Yu, Michael Backes, Yang Zhang; <i>CVPR 2023</i></font>
 [[paper]]() 
-### <font size="3"><span style="color:rgb(0, 119, 181)">On the Evolution of (Hateful) Memes by Means of Multimodal Contrastive Learning</span></font>  
-<font size="3">Yiting Qu, <b>Xinlei He</b>, Shannon Pierson, Michael Backes, Yang Zhang, Savvas Zannettou; <i>S&P 2023</i></font>
-[[paper]](https://arxiv.org/abs/2212.06573)
-[[code]](https://github.com/YitingQu/meme-evolution)
+### <font size="3"><span style="color:rgb(0, 119, 181)">A Plot is Worth a Thousand Words: Model Information Stealing Attacks via Scientific Plots</span></font>  
+<font size="3">Boyang Zhang, <b>Xinlei He</b>, Yun Shen, Tianhao Wang, Yang Zhang; <i>S&P 2023</i></font>
+[[paper]](https://arxiv.org/abs/2302.11982)
+[[code]](https://github.com/boz083/Plot_Steal)
 ### <font size="3"><span style="color:rgb(0, 119, 181)">A Plot is Worth a Thousand Words: Model Information Stealing Attacks via Scientific Plots</span></font>  
 <font size="3">Boyang Zhang, <b>Xinlei He</b>, Yun Shen, Tianhao Wang, Yang Zhang; <i>USENIX Security 2023</i></font>
 [[paper]]() 
