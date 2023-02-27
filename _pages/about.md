@@ -24,6 +24,7 @@ Research Interests
 
 Recent News
 ======
+- [February 2023] One paper titled “Can’t Steal? Cont-Steal! Contrastive Stealing Attacks Against Image Encoders” got accepted in [CVPR 2023](https://cvpr2023.thecvf.com/)!
 - [February 2023] One paper titled “A Plot is Worth a Thousand Words: Model Information Stealing Attacks via Scientific Plots” got accepted in [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23)!
 - [November 2022] One paper titled “On the Evolution of (Hateful) Memes by Means of Multimodal Contrastive Learning” got accepted in [Oakland 2023](https://www.ieee-security.org/TC/SP2023/)!
 - [July 2022] One paper titled “Semi-Leak: Membership Inference Attacks Against Semi-supervised Learning” got accepted in [ECCV 2022](https://eccv2022.ecva.net/)!
