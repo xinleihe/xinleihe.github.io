@@ -33,6 +33,11 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 [[paper]](https://arxiv.org/abs/2212.06573)
 [[code]](https://github.com/YitingQu/meme-evolution)
 
+### <font size="3"><span style="color:rgb(0, 119, 181)">MGTBench: Benchmarking Machine-Generated Text Detection</span></font>  
+<font size="3"><b>Xinlei He</b>, Xinyue Shen, Zeyuan Chen, Michael Backes, Yang Zhang</font>
+[[paper]](https://arxiv.org/abs/2303.14822)
+[[code]](https://github.com/xinleihe/MGTBench)
+
 ### 2022
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">Semi-Leak: Membership Inference Attacks Against Semi-supervised Learning</span></font>  

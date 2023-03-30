@@ -16,7 +16,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: http://www.xinlei.info/files/cv.pdf
 
   - title: "CFPs"
     url: /cfps/
