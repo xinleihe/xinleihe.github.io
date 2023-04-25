@@ -20,6 +20,14 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 
 ### 2023
 
+### <font size="3"><span style="color:rgb(0, 119, 181)">Data Poisoning Attacks Against Multimodal Encoders</span></font>  
+<font size="3">Ziqing Yang, <b>Xinlei He</b>, Zheng Li, Michael Backes, Mathias Humbert, Pascal Berrang, Yang Zhang; <i>ICML 2023</i></font>
+[[paper]]() 
+
+### <font size="3"><span style="color:rgb(0, 119, 181)">Generated Graph Detection</span></font>  
+<font size="3">Yihan Ma, Zhikun Zhang, Ning Yu, <b>Xinlei He</b>, Michael Backes, Yun Shen, Yang Zhang; <i>ICML 2023</i></font>
+[[paper]]() 
+
 ### <font size="3"><span style="color:rgb(0, 119, 181)">Can't Steal? Cont-Steal! Contrastive Stealing Attacks Against Image Encoders</span></font>  
 <font size="3">Zeyang Sha, <b>Xinlei He</b>, Ning Yu, Michael Backes, Yang Zhang; <i>CVPR 2023</i></font>
 [[paper]]() 

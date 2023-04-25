@@ -24,6 +24,8 @@ Research Interests
 
 Recent News
 ======
+- [April 2023] One paper titled “Data Poisoning Attacks Against Multimodal Encoders” got accepted in [ICML 2023](https://icml.cc/)!
+- [April 2023] One paper titled “Generated Graph Detection” got accepted in [ICML 2023](https://icml.cc/)!
 - [March 2023] I will join the TPC of [Oakland 2024](https://sp2024.ieee-security.org/)!
 - [March 2023] We released [MGTBench](https://github.com/xinleihe/MGTBench), a benchmark for the current machine-generated text (by ChatGPT) detection methods.
 - [February 2023] One paper titled “Can’t Steal? Cont-Steal! Contrastive Stealing Attacks Against Image Encoders” got accepted in [CVPR 2023](https://cvpr2023.thecvf.com/)!
@@ -34,12 +36,12 @@ Recent News
 - [April 2022] One paper titled “Auditing Membership Leakages of Multi-Exit Networks” got accepted in [CCS 2022](https://www.sigsac.org/ccs/CCS2022/)!
 - [March 2022] One paper titled “On Xing Tian and the Perseverance of Anti-China Sentiment Online” got accepted in [ICWSM](https://www.icwsm.org/2022/index.html/) 2022!
 - [March 2022] I Got The [Norton Labs Graduate Fellowship (2022)](https://www.nortonlifelock.com/us/en/research-labs/news/2022-fellowship-winners/)!
-- [December 2021] One paper titled "Model Stealing Attacks Against Inductive Graph Neural Networks" got accepted in [Oakland 2022](https://www.ieee-security.org/TC/SP2022/){:target="_blank"}!
-- [September 2021] One paper titled "ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models" got accepted in [USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22){:target="_blank"}!
-- [September 2021] One paper titled "Quantifying and Mitigating Privacy Risks of Contrastive Learning" got accepted in [CCS 2021](https://www.sigsac.org/ccs/CCS2021/){:target="_blank"}!
-- [May 2021]  One paper titled "Trimming Mobile Applications for Bandwidth-Challenged Networks in Developing Regions" get accepted in [TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755){:target="_blank"}!
-- [January 2021]  One paper titled "DatingSec: Detecting Malicious Accounts in Dating Apps Using a Content-Based Attention Network" get accepted in [TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858){:target="_blank"}!
-- [September 2020] One paper titled "Stealing Links from Graph Neural Networks" got accepted in [USENIX Security 2021](https://www.usenix.org/conference/usenixsecurity21){:target="_blank"}!
+- [December 2021] One paper titled "Model Stealing Attacks Against Inductive Graph Neural Networks" got accepted in [Oakland 2022](https://www.ieee-security.org/TC/SP2022/)!
+- [September 2021] One paper titled "ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models" got accepted in [USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22)!
+- [September 2021] One paper titled "Quantifying and Mitigating Privacy Risks of Contrastive Learning" got accepted in [CCS 2021](https://www.sigsac.org/ccs/CCS2021/)!
+- [May 2021]  One paper titled "Trimming Mobile Applications for Bandwidth-Challenged Networks in Developing Regions" get accepted in [TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)!
+- [January 2021]  One paper titled "DatingSec: Detecting Malicious Accounts in Dating Apps Using a Content-Based Attention Network" get accepted in [TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)!
+- [September 2020] One paper titled "Stealing Links from Graph Neural Networks" got accepted in [USENIX Security 2021](https://www.usenix.org/conference/usenixsecurity21)!
 
 <!-- Education
 ======
