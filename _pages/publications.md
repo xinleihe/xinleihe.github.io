@@ -20,6 +20,10 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 
 ### 2023
 
+### <font size="3"><span style="color:rgb(0, 119, 181)">Unsafe Diffusion: On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models</span></font>  
+<font size="3">Yiting Qu, Xinyue Shen, <b>Xinlei He</b>, Michael Backes, Savvas Zannettou, Yang Zhang; <i>CCS 2023</i></font>
+[[paper]]() 
+
 ### <font size="3"><span style="color:rgb(0, 119, 181)">Data Poisoning Attacks Against Multimodal Encoders</span></font>  
 <font size="3">Ziqing Yang, <b>Xinlei He</b>, Zheng Li, Michael Backes, Mathias Humbert, Pascal Berrang, Yang Zhang; <i>ICML 2023</i></font>
 [[paper]]() 

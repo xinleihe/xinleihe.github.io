@@ -24,6 +24,7 @@ Research Interests
 
 Recent News
 ======
+- [May 2023] One paper titled “Unsafe Diffusion: On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models” got accepted in [CCS 2023](https://www.sigsac.org/ccs/CCS2023/)!
 - [April 2023] One paper titled “Data Poisoning Attacks Against Multimodal Encoders” got accepted in [ICML 2023](https://icml.cc/)!
 - [April 2023] One paper titled “Generated Graph Detection” got accepted in [ICML 2023](https://icml.cc/)!
 - [March 2023] I will join the TPC of [Oakland 2024](https://sp2024.ieee-security.org/)!
