@@ -20,6 +20,15 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 
 ### 2023
 
+### <font size="3"><span style="color:rgb(0, 119, 181)">You Only Prompt Once: On the Capabilities of Prompt Learning on Large Language Models to Tackle Toxic Content</span></font>  
+<font size="3"><b>Xinlei He</b>, Savvas Zannettou, Yun Shen, Yang Zhang; <i>S&P 2024</i></font>
+[[paper]]() 
+
+### <font size="3"><span style="color:rgb(0, 119, 181)">Test-Time Poisoning Attacks Against Test-Time Adaptation Models</span></font>  
+<font size="3">Tianshuo Cong, <b>Xinlei He</b>, Yun Shen, Yang Zhang; <i>S&P 2024</i></font>
+[[paper]]() 
+
+
 ### <font size="3"><span style="color:rgb(0, 119, 181)">Unsafe Diffusion: On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models</span></font>  
 <font size="3">Yiting Qu, Xinyue Shen, <b>Xinlei He</b>, Michael Backes, Savvas Zannettou, Yang Zhang; <i>CCS 2023</i></font>
 [[paper]]() 
