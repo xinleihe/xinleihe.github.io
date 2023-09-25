@@ -20,10 +20,12 @@ Research Interests
 - Security and Privacy of Machine Learning
 - Social Network Analysis
 
-<span style="color:rgb(0, 119, 181)"><b>I'm looking for jobs from both acadamia and industry! Please drop me an email (xinlei.he@cispa.de) if you think I'd be a good fit for your team :D</b></span>
+<span style="color:rgb(0, 119, 181)"><b>I'm looking for jobs from both acadamia and industry! Please drop me an email (wooohxl@gmail.com) if you think I'd be a good fit for your team :D</b></span>
 
 Recent News
 ======
+- [Sep 2023] One paper titled “SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models” got accepted in [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24/)!
+- [Aug 2023] I have successfully passed my Ph.D. defense! 
 - [July 2023] One paper titled “You Only Prompt Once: On the Capabilities of Prompt Learning on Large Language Models to Tackle Toxic Content” got accepted in [Oakland 2024](https://sp2024.ieee-security.org/)!
 - [July 2023] One paper titled “Test-Time Poisoning Attacks Against Test-Time Adaptation Models” got accepted in [Oakland 2024](https://sp2024.ieee-security.org/)!
 - [May 2023] One paper titled “Unsafe Diffusion: On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models” got accepted in [CCS 2023](https://www.sigsac.org/ccs/CCS2023/)!
