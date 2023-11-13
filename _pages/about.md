@@ -11,7 +11,7 @@ redirect_from:
 
 Biography
 ======
-I am a forth-year Ph.D student at [CISPA Helmholtz Center for Information Security](https://cispa.saarland/). My advisor is Dr. [Yang Zhang](https://yangzhangalmo.github.io/).
+I obtained my Ph.D at [CISPA Helmholtz Center for Information Security](https://cispa.saarland/), Saarland University. My advisor is Dr. [Yang Zhang](https://yangzhangalmo.github.io/).
 Prior to that, I obtained my bachelor (2017) and master (2020) degrees from Fudan University under the supervision of  Prof. [Yang Chen](https://chenyang03.wordpress.com/).
 
 
@@ -20,7 +20,7 @@ Research Interests
 - Security and Privacy of Machine Learning
 - Social Network Analysis
 
-<span style="color:rgb(0, 119, 181)"><b>I'm looking for jobs from both acadamia and industry! Please drop me an email (wooohxl@gmail.com) if you think I'd be a good fit for your team :D</b></span>
+<!-- <span style="color:rgb(0, 119, 181)"><b>I'm looking for jobs from both acadamia and industry! Please drop me an email (wooohxl@gmail.com) if you think I'd be a good fit for your team :D</b></span> -->
 
 Recent News
 ======
