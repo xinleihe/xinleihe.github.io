@@ -17,7 +17,7 @@ Prior to that, I obtained my bachelor (2017) and master (2020) degrees from Fuda
 
 Research Interests
 ======
-- Security and Privacy of Machine Learning
+- Trustworthy Machine Learning
 - Social Network Analysis
 
 <!-- <span style="color:rgb(0, 119, 181)"><b>I'm looking for jobs from both acadamia and industry! Please drop me an email (wooohxl@gmail.com) if you think I'd be a good fit for your team :D</b></span> -->
