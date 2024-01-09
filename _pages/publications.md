@@ -10,49 +10,49 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 
 
 
-
-<!-- ### Preprint
-<b><font color="#19B4F3">Node-Level Membership Inference Attacks Against Graph Neural Networks</font></b>
-<br>**Xinlei He**, Rui Wen, Yixin Wu, Michael Backes, Yun Shen, Yang Zhang
-<br><a class="btn btn-primary" href="https://arxiv.org/abs/2102.05429">arxiv</a> -->
-<!-- <a href="https://arxiv.org/abs/2102.05429" class="btn--blue" target="_blank">arxiv</a> -->
-
-
 ### 2024
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models</span></font>  
 <font size="3">Boyang Zhang, Zheng Li, Ziqing Yang, ,<b>Xinlei He</b>, Michael Backes, Mario Fritz, Yang Zhang; <i>USENIX Security 2024</i></font>
-[[paper]]() 
+[![img](https://img.shields.io/badge/paper-f1b800)](https://arxiv.org/abs/2310.12665) 
+[![img](https://img.shields.io/badge/code-f1b800)](https://github.com/SecurityNet-Research/SecurityNet)
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">You Only Prompt Once: On the Capabilities of Prompt Learning on Large Language Models to Tackle Toxic Content</span></font>  
 <font size="3"><b>Xinlei He</b>, Savvas Zannettou, Yun Shen, Yang Zhang; <i>S&P 2024</i></font>
-[![img](https://img.shields.io/badge/paper-f1b800)]() 
+[![img](https://img.shields.io/badge/paper-f1b800)](https://arxiv.org/abs/2308.05596)
+[![img](https://img.shields.io/badge/code-f1b800)](https://github.com/xinleihe/toxic-promp)
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">Test-Time Poisoning Attacks Against Test-Time Adaptation Models</span></font>  
 <font size="3">Tianshuo Cong, <b>Xinlei He</b>, Yun Shen, Yang Zhang; <i>S&P 2024</i></font>
-[![img](https://img.shields.io/badge/paper-f1b800)]() 
+[![img](https://img.shields.io/badge/paper-f1b800)](https://arxiv.org/abs/2308.08505)
+[![img](https://img.shields.io/badge/code-f1b800)](https://github.com/tianshuocong/TePA)
 
 ### 2023
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">Unsafe Diffusion: On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models</span></font>  
 <font size="3">Yiting Qu, Xinyue Shen, <b>Xinlei He</b>, Michael Backes, Savvas Zannettou, Yang Zhang; <i>CCS 2023</i></font>
-[![img](https://img.shields.io/badge/paper-f1b800)]() 
+[![img](https://img.shields.io/badge/paper-f1b800)](https://arxiv.org/abs/2305.13873) 
+[![img](https://img.shields.io/badge/code-f1b800)](https://github.com/YitingQu/unsafe-diffusion)
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">Data Poisoning Attacks Against Multimodal Encoders</span></font>  
 <font size="3">Ziqing Yang, <b>Xinlei He</b>, Zheng Li, Michael Backes, Mathias Humbert, Pascal Berrang, Yang Zhang; <i>ICML 2023</i></font>
-[![img](https://img.shields.io/badge/paper-f1b800)]() 
+[![img](https://img.shields.io/badge/paper-f1b800)](https://arxiv.org/abs/2209.15266) 
+[![img](https://img.shields.io/badge/code-f1b800)](https://github.com/zqypku/mm_poison/)
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">Generated Graph Detection</span></font>  
 <font size="3">Yihan Ma, Zhikun Zhang, Ning Yu, <b>Xinlei He</b>, Michael Backes, Yun Shen, Yang Zhang; <i>ICML 2023</i></font>
-[![img](https://img.shields.io/badge/paper-f1b800)]() 
+[![img](https://img.shields.io/badge/paper-f1b800)](https://arxiv.org/abs/2306.07758)
+[![img](https://img.shields.io/badge/code-f1b800)](https://github.com/Yvonnemamama/GGD)
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">Can't Steal? Cont-Steal! Contrastive Stealing Attacks Against Image Encoders</span></font>  
 <font size="3">Zeyang Sha, <b>Xinlei He</b>, Ning Yu, Michael Backes, Yang Zhang; <i>CVPR 2023</i></font>
-[![img](https://img.shields.io/badge/paper-f1b800)]() 
+[![img](https://img.shields.io/badge/paper-f1b800)](https://arxiv.org/pdf/2201.07513.pdf)
+[![img](https://img.shields.io/badge/code-f1b800)](https://github.com/zeyangsha/Cont-Steal) 
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">A Plot is Worth a Thousand Words: Model Information Stealing Attacks via Scientific Plots</span></font>  
 <font size="3">Boyang Zhang, <b>Xinlei He</b>, Yun Shen, Tianhao Wang, Yang Zhang; <i>USENIX Security 2023</i></font>
-[![img](https://img.shields.io/badge/paper-f1b800)]() 
+[![img](https://img.shields.io/badge/paper-f1b800)](https://arxiv.org/abs/2302.11982)
+[![img](https://img.shields.io/badge/code-f1b800)](https://github.com/boz083/Plot_Steal)
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">On the Evolution of (Hateful) Memes by Means of Multimodal Contrastive Learning</span></font>  
 <font size="3">Yiting Qu, <b>Xinlei He</b>, Shannon Pierson, Michael Backes, Yang Zhang, Savvas Zannettou; <i>S&P 2023</i></font>
@@ -68,12 +68,14 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">Semi-Leak: Membership Inference Attacks Against Semi-supervised Learning</span></font>  
 <font size="3"><b>Xinlei He</b>, Hongbin Liu, Neil Zhenqiang Gong, Yang Zhang; <i>ECCV 2022</i></font>
-<!-- [![img](https://img.shields.io/badge/paper-f1b800)]()  -->
+[![img](https://img.shields.io/badge/paper-f1b800)]()
+[![img](https://img.shields.io/badge/code-f1b800)]()
 
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">SSLGuard: A Watermarking Scheme for Self-supervised Learning Pre-trained Encoders</span></font>  
 <font size="3">Tianshuo Cong, <b>Xinlei He</b>, Yang Zhang; <i>CCS 2022</i></font>
-[![img](https://img.shields.io/badge/paper-f1b800)](https://arxiv.org/abs/2201.11692) 
+[![img](https://img.shields.io/badge/paper-f1b800)](https://arxiv.org/abs/2201.11692)
+[![img](https://img.shields.io/badge/code-f1b800)]()
 
 <!-- <a href="" class="btn btn-primary">code</a> -->
 <!-- [pdf](){: .btn--danger}{:target="_blank"} [arxiv](https://arxiv.org/abs/2201.11692){: .btn--danger}{:target="_blank"} ![img](https://img.shields.io/badge/code-f1b800)(){: .btn--danger}{:target="_blank"} -->
@@ -81,7 +83,8 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">Auditing Membership Leakages of Multi-Exit Networks</span></font>  
 <font size="3">Zheng Li, Yiyong Liu, <b>Xinlei He</b>, Ning Yu, Michael Backes, Yang Zhang; <i>CCS 2022</i></font>  
-
+[![img](https://img.shields.io/badge/paper-f1b800)]()
+[![img](https://img.shields.io/badge/code-f1b800)]()
 
 
 ### <font size="3"><font size="3"><span style="color:rgb(0, 119, 181)">Model Stealing Attacks Against Inductive Graph Neural Networks</span></font>  
@@ -101,7 +104,6 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 ### <font size="3"><font size="3"><span style="color:rgb(0, 119, 181)">On Xing Tian and the Perseverance of Anti-China Sentiment Online</span></font>  
 <font size="3">Xinyue Shen, <b>Xinlei He</b>, Michael Backes, Jeremy Blackburn, Savvas Zannettou, Yang Zhang; <i>ICWSM 2022</i></font>  
 [![img](https://img.shields.io/badge/paper-f1b800)](http://yangzhangalmo.github.io/papers/ICWSM22.pdf)
-
 
 
 ### 2021
