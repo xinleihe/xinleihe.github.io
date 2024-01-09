@@ -20,6 +20,10 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 
 ### 2024
 
+### <font size="3"><span style="color:rgb(0, 119, 181)">SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models</span></font>  
+<font size="3">Boyang Zhang, Zheng Li, Ziqing Yang, ,<b>Xinlei He</b>, Michael Backes, Mario Fritz, Yang Zhang; <i>USENIX Security 2024</i></font>
+[[paper]]() 
+
 ### <font size="3"><span style="color:rgb(0, 119, 181)">You Only Prompt Once: On the Capabilities of Prompt Learning on Large Language Models to Tackle Toxic Content</span></font>  
 <font size="3"><b>Xinlei He</b>, Savvas Zannettou, Yun Shen, Yang Zhang; <i>S&P 2024</i></font>
 [![img](https://img.shields.io/badge/paper-f1b800)]() 
