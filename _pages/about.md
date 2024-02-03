@@ -11,14 +11,15 @@ redirect_from:
 
 Biography
 ======
-I obtained my Ph.D at [CISPA Helmholtz Center for Information Security](https://cispa.saarland/), Saarland University. My advisor is Dr. [Yang Zhang](https://yangzhangalmo.github.io/).
-Prior to that, I obtained my bachelor (2017) and master (2020) degrees from Fudan University under the supervision of  Prof. [Yang Chen](https://chenyang03.wordpress.com/).
+I am an assistant professor jointly in the DSA and IoT Thrust of the Information Hub at [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/).
+I am interested in Trustworthy Machine Learning, with a spesific focus on the security, privacy, and safety aspects.
+Prior to that, I obtained my Ph.D at [CISPA Helmholtz Center for Information Security](https://cispa.saarland/), Saarland University advised by Dr. [Yang Zhang](https://yangzhangalmo.github.io/) in 2023.
+I received my bachelor (2017) and master (2020) degrees from Fudan University, advised by Prof. [Yang Chen](https://chenyang03.wordpress.com/).
 
 
-Research Interests
+Job Openings
 ======
-- Trustworthy Machine Learning
-- Social Network Analysis
+I am looking for self-motivated PhD students and research assistant to join my research group. Please drop me an email if you are interested in working with me!
 
 <!-- <span style="color:rgb(0, 119, 181)"><b>I'm looking for jobs from both acadamia and industry! Please drop me an email (wooohxl@gmail.com) if you think I'd be a good fit for your team :D</b></span> -->
 
