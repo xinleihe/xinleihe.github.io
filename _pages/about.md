@@ -19,7 +19,7 @@ I received my bachelor (2017) and master (2020) degrees from Fudan University, a
 
 Job Openings
 ======
-<span style="color:rgb(255, 87, 51)">I am looking for self-motivated PhD students and research assistant to join my research group. Please drop me an email if you are interested in working with me!</span>
+<span style="color:rgb(255, 87, 51)">I am looking for self-motivated PhD students and research assistant to join my research group. Please drop me an [email](mailto:xinleihe@hkust-gz.edu.cn) if you are interested in working with me!</span>
 
 <!-- <span style="color:rgb(0, 119, 181)"><b>I'm looking for jobs from both acadamia and industry! Please drop me an email (wooohxl@gmail.com) if you think I'd be a good fit for your team :D</b></span> -->
 
