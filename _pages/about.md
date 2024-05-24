@@ -19,37 +19,38 @@ I received my bachelor (2017) and master (2020) degrees from Fudan University, a
 
 Job Openings
 ======
-<span style="color:rgb(255, 87, 51)">I am looking for self-motivated PhD students and research assistant to join my research group. Please drop me an [email](mailto:xinleihe@hkust-gz.edu.cn) if you are interested in working with me!</span>
+<span style="color:rgb(255, 87, 51)">I am looking for self-motivated PhD students (25 Fall) and research assistant to join my research group. Please drop me an [email](mailto:xinleihe@hkust-gz.edu.cn) if you are interested in working with me!</span>
 
 <!-- <span style="color:rgb(0, 119, 181)"><b>I'm looking for jobs from both acadamia and industry! Please drop me an email (wooohxl@gmail.com) if you think I'd be a good fit for your team :D</b></span> -->
 
 Recent News
 ======
-- [Feb 2024] I’ll join the PC of ACSAC 2024!
-- [Feb 2024] I joined HKUST(GZ) as an assistant professor!
-- [Sep 2023] One paper titled “SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models” got accepted in [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24/)!
-- [Aug 2023] I have successfully passed my Ph.D. defense! 
-- [July 2023] One paper titled “You Only Prompt Once: On the Capabilities of Prompt Learning on Large Language Models to Tackle Toxic Content” got accepted in [Oakland 2024](https://sp2024.ieee-security.org/)!
-- [July 2023] One paper titled “Test-Time Poisoning Attacks Against Test-Time Adaptation Models” got accepted in [Oakland 2024](https://sp2024.ieee-security.org/)!
-- [May 2023] One paper titled “Unsafe Diffusion: On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models” got accepted in [CCS 2023](https://www.sigsac.org/ccs/CCS2023/)!
-- [April 2023] One paper titled “Data Poisoning Attacks Against Multimodal Encoders” got accepted in [ICML 2023](https://icml.cc/)!
-- [April 2023] One paper titled “Generated Graph Detection” got accepted in [ICML 2023](https://icml.cc/)!
-- [March 2023] I will join the TPC of [Oakland 2024](https://sp2024.ieee-security.org/)!
-- [March 2023] We released [MGTBench](https://github.com/xinleihe/MGTBench), a benchmark for the current machine-generated text (by ChatGPT) detection methods.
-- [February 2023] One paper titled “Can’t Steal? Cont-Steal! Contrastive Stealing Attacks Against Image Encoders” got accepted in [CVPR 2023](https://cvpr2023.thecvf.com/)!
-- [February 2023] One paper titled “A Plot is Worth a Thousand Words: Model Information Stealing Attacks via Scientific Plots” got accepted in [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23)!
-- [November 2022] One paper titled “On the Evolution of (Hateful) Memes by Means of Multimodal Contrastive Learning” got accepted in [Oakland 2023](https://www.ieee-security.org/TC/SP2023/)!
-- [July 2022] One paper titled “Semi-Leak: Membership Inference Attacks Against Semi-supervised Learning” got accepted in [ECCV 2022](https://eccv2022.ecva.net/)!
-- [April 2022] One paper titled “SSLGuard: A Watermarking Scheme for Self-supervised Learning Pre-trained Encoders” got accepted in [CCS 2022](https://www.sigsac.org/ccs/CCS2022/)!
-- [April 2022] One paper titled “Auditing Membership Leakages of Multi-Exit Networks” got accepted in [CCS 2022](https://www.sigsac.org/ccs/CCS2022/)!
-- [March 2022] One paper titled “On Xing Tian and the Perseverance of Anti-China Sentiment Online” got accepted in [ICWSM](https://www.icwsm.org/2022/index.html/) 2022!
-- [March 2022] I Got The [Norton Labs Graduate Fellowship (2022)](https://www.nortonlifelock.com/us/en/research-labs/news/2022-fellowship-winners/)!
-- [December 2021] One paper titled "Model Stealing Attacks Against Inductive Graph Neural Networks" got accepted in [Oakland 2022](https://www.ieee-security.org/TC/SP2022/)!
-- [September 2021] One paper titled "ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models" got accepted in [USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22)!
-- [September 2021] One paper titled "Quantifying and Mitigating Privacy Risks of Contrastive Learning" got accepted in [CCS 2021](https://www.sigsac.org/ccs/CCS2021/)!
-- [May 2021]  One paper titled "Trimming Mobile Applications for Bandwidth-Challenged Networks in Developing Regions" get accepted in [TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)!
-- [January 2021]  One paper titled "DatingSec: Detecting Malicious Accounts in Dating Apps Using a Content-Based Attention Network" get accepted in [TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)!
-- [September 2020] One paper titled "Stealing Links from Graph Neural Networks" got accepted in [USENIX Security 2021](https://www.usenix.org/conference/usenixsecurity21)!
+- [5/2024] One paper titled “MGTBench: Benchmarking Machine-Generated Text Detection” got accepted in [CCS 2024](https://www.sigsac.org/ccs/CCS2024/)!
+- [2/2024] I’ll join the PC of ACSAC 2024!
+- [2/2024] I joined HKUST(GZ) as an assistant professor!
+- [9/2023] One paper titled “SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models” got accepted in [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24/)!
+- [8/2023] I have successfully passed my Ph.D. defense! 
+- [7/2023] One paper titled “You Only Prompt Once: On the Capabilities of Prompt Learning on Large Language Models to Tackle Toxic Content” got accepted in [Oakland 2024](https://sp2024.ieee-security.org/)!
+- [7/2023] One paper titled “Test-Time Poisoning Attacks Against Test-Time Adaptation Models” got accepted in [Oakland 2024](https://sp2024.ieee-security.org/)!
+- [5/2023] One paper titled “Unsafe Diffusion: On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models” got accepted in [CCS 2023](https://www.sigsac.org/ccs/CCS2023/)!
+- [4/2023] One paper titled “Data Poisoning Attacks Against Multimodal Encoders” got accepted in [ICML 2023](https://icml.cc/)!
+- [4/2023] One paper titled “Generated Graph Detection” got accepted in [ICML 2023](https://icml.cc/)!
+- [3/2023] I will join the TPC of [Oakland 2024](https://sp2024.ieee-security.org/)!
+- [3/2023] We released [MGTBench](https://github.com/xinleihe/MGTBench), a benchmark for the current machine-generated text (by ChatGPT) detection methods.
+- [2/2023] One paper titled “Can’t Steal? Cont-Steal! Contrastive Stealing Attacks Against Image Encoders” got accepted in [CVPR 2023](https://cvpr2023.thecvf.com/)!
+- [2/2023] One paper titled “A Plot is Worth a Thousand Words: Model Information Stealing Attacks via Scientific Plots” got accepted in [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23)!
+- [11/2022] One paper titled “On the Evolution of (Hateful) Memes by Means of Multimodal Contrastive Learning” got accepted in [Oakland 2023](https://www.ieee-security.org/TC/SP2023/)!
+- [7/2022] One paper titled “Semi-Leak: Membership Inference Attacks Against Semi-supervised Learning” got accepted in [ECCV 2022](https://eccv2022.ecva.net/)!
+- [4/2022] One paper titled “SSLGuard: A Watermarking Scheme for Self-supervised Learning Pre-trained Encoders” got accepted in [CCS 2022](https://www.sigsac.org/ccs/CCS2022/)!
+- [4/2022] One paper titled “Auditing Membership Leakages of Multi-Exit Networks” got accepted in [CCS 2022](https://www.sigsac.org/ccs/CCS2022/)!
+- [3/2022] One paper titled “On Xing Tian and the Perseverance of Anti-China Sentiment Online” got accepted in [ICWSM](https://www.icwsm.org/2022/index.html/) 2022!
+- [3/2022] I Got The [Norton Labs Graduate Fellowship (2022)](https://www.nortonlifelock.com/us/en/research-labs/news/2022-fellowship-winners/)!
+- [12/2021] One paper titled "Model Stealing Attacks Against Inductive Graph Neural Networks" got accepted in [Oakland 2022](https://www.ieee-security.org/TC/SP2022/)!
+- [9/2021] One paper titled "ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models" got accepted in [USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22)!
+- [9/2021] One paper titled "Quantifying and Mitigating Privacy Risks of Contrastive Learning" got accepted in [CCS 2021](https://www.sigsac.org/ccs/CCS2021/)!
+- [5/2021]  One paper titled "Trimming Mobile Applications for Bandwidth-Challenged Networks in Developing Regions" get accepted in [TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)!
+- [1/2021]  One paper titled "DatingSec: Detecting Malicious Accounts in Dating Apps Using a Content-Based Attention Network" get accepted in [TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)!
+- [9/2020] One paper titled "Stealing Links from Graph Neural Networks" got accepted in [USENIX Security 2021](https://www.usenix.org/conference/usenixsecurity21)!
 
 <!-- Education
 ======

@@ -12,8 +12,13 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 
 ### 2024
 
+### <font size="3"><span style="color:rgb(0, 119, 181)">MGTBench: Benchmarking Machine-Generated Text Detection</span></font>  
+<font size="3"><b>Xinlei He</b>, Xinyue Shen, Zeyuan Chen, Michael Backes, Yang Zhang; <i>CCS 2024</i></font>
+[![img](https://img.shields.io/badge/paper-fac205)](https://arxiv.org/abs/2303.14822) 
+[![img](https://img.shields.io/badge/code-fac205)](https://github.com/xinleihe/MGTBench)
+
 ### <font size="3"><span style="color:rgb(0, 119, 181)">SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models</span></font>  
-<font size="3">Boyang Zhang, Zheng Li, Ziqing Yang, ,<b>Xinlei He</b>, Michael Backes, Mario Fritz, Yang Zhang; <i>USENIX Security 2024</i></font>
+<font size="3">Boyang Zhang, Zheng Li, Ziqing Yang,<b>Xinlei He</b>, Michael Backes, Mario Fritz, Yang Zhang; <i>USENIX Security 2024</i></font>
 [![img](https://img.shields.io/badge/paper-fac205)](https://arxiv.org/abs/2310.12665) 
 [![img](https://img.shields.io/badge/code-fac205)](https://github.com/SecurityNet-Research/SecurityNet)
 
