@@ -32,6 +32,11 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 [![img](https://img.shields.io/badge/paper-fac205)](https://arxiv.org/abs/2308.08505)
 [![img](https://img.shields.io/badge/code-fac205)](https://github.com/tianshuocong/TePA)
 
+### <font size="3"><span style="color:rgb(0, 119, 181)">Link Stealing Attacks Against Inductive Graph Neural Networks</span></font>  
+<font size="3">Yixin Wu, <b>Xinlei He</b>, Pascal Berrang, Mathias Humbert, Michael Backes, Neil Zhenqiang Gong, Yang Zhang; <i>PoPETS 2024</i></font>
+<!-- [![img](https://img.shields.io/badge/paper-fac205)](https://arxiv.org/abs/2308.08505)
+[![img](https://img.shields.io/badge/code-fac205)](https://github.com/tianshuocong/TePA) -->
+
 ### 2023
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">Unsafe Diffusion: On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models</span></font>  
@@ -63,11 +68,6 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 <font size="3">Yiting Qu, <b>Xinlei He</b>, Shannon Pierson, Michael Backes, Yang Zhang, Savvas Zannettou; <i>S&P 2023</i></font>
 [![img](https://img.shields.io/badge/paper-fac205)](https://arxiv.org/abs/2212.06573)
 [![img](https://img.shields.io/badge/code-fac205)](https://github.com/YitingQu/meme-evolution)
-
-### <font size="3"><span style="color:rgb(0, 119, 181)">MGTBench: Benchmarking Machine-Generated Text Detection</span></font>  
-<font size="3"><b>Xinlei He</b>, Xinyue Shen, Zeyuan Chen, Michael Backes, Yang Zhang</font>
-[![img](https://img.shields.io/badge/paper-fac205)](https://arxiv.org/abs/2303.14822)
-[![img](https://img.shields.io/badge/code-fac205)](https://github.com/xinleihe/MGTBench)
 
 ### 2022
 
