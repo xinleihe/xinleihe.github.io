@@ -6,7 +6,7 @@ author_profile: true
 
 ## Program Committee Member
 
-- 2024: IEEE S&P, ACM ASIACCS, IEEE ICDCS
+- 2024: IEEE S&P, ACM ASIACCS, IEEE ICDCS, ACSAC
 - 2022: ESORICS
 - 2021: ESORICS (Poster Session)
 
