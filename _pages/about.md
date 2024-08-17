@@ -25,10 +25,12 @@ Job Openings
 
 Recent News
 ======
+- [7/2024] I’ll join the PC of IEEE Euro S&P 2025!
+- [7/2024] I’ll join the PC of IEEE SaTML 2025!
 - [5/2024] One paper titled “MGTBench: Benchmarking Machine-Generated Text Detection” got accepted in [CCS 2024](https://www.sigsac.org/ccs/CCS2024/)!
 - [2/2024] I’ll join the PC of ACSAC 2024!
 - [2/2024] I joined HKUST(GZ) as an assistant professor!
-- [9/2023] One paper titled “SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models” got accepted in [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24/)!
+<!-- - [9/2023] One paper titled “SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models” got accepted in [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24/)!
 - [8/2023] I have successfully passed my Ph.D. defense! 
 - [7/2023] One paper titled “You Only Prompt Once: On the Capabilities of Prompt Learning on Large Language Models to Tackle Toxic Content” got accepted in [Oakland 2024](https://sp2024.ieee-security.org/)!
 - [7/2023] One paper titled “Test-Time Poisoning Attacks Against Test-Time Adaptation Models” got accepted in [Oakland 2024](https://sp2024.ieee-security.org/)!
@@ -50,7 +52,7 @@ Recent News
 - [9/2021] One paper titled "Quantifying and Mitigating Privacy Risks of Contrastive Learning" got accepted in [CCS 2021](https://www.sigsac.org/ccs/CCS2021/)!
 - [5/2021]  One paper titled "Trimming Mobile Applications for Bandwidth-Challenged Networks in Developing Regions" get accepted in [TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)!
 - [1/2021]  One paper titled "DatingSec: Detecting Malicious Accounts in Dating Apps Using a Content-Based Attention Network" get accepted in [TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)!
-- [9/2020] One paper titled "Stealing Links from Graph Neural Networks" got accepted in [USENIX Security 2021](https://www.usenix.org/conference/usenixsecurity21)!
+- [9/2020] One paper titled "Stealing Links from Graph Neural Networks" got accepted in [USENIX Security 2021](https://www.usenix.org/conference/usenixsecurity21)! -->
 
 <!-- Education
 ======
