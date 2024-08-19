@@ -30,6 +30,7 @@ Recent News
 - [5/2024] One paper titled “MGTBench: Benchmarking Machine-Generated Text Detection” got accepted in [CCS 2024](https://www.sigsac.org/ccs/CCS2024/)!
 - [2/2024] I’ll join the PC of ACSAC 2024!
 - [2/2024] I joined HKUST(GZ) as an assistant professor!
+
 <!-- - [9/2023] One paper titled “SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models” got accepted in [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24/)!
 - [8/2023] I have successfully passed my Ph.D. defense! 
 - [7/2023] One paper titled “You Only Prompt Once: On the Capabilities of Prompt Learning on Large Language Models to Tackle Toxic Content” got accepted in [Oakland 2024](https://sp2024.ieee-security.org/)!

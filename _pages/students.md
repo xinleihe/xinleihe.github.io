@@ -13,6 +13,6 @@ I’m fortunate to work with the following brilliant students.
 
 [2024.09-] [Zhen Sun](https://zhensun.cn/)
 
-[2024.09-] Jingyi Zheng
+[2024.09-] [Jingyi Zheng](https://jingyi62.github.io)
 
 
