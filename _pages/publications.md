@@ -10,9 +10,9 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">Have You Merged My Model? On The Robustness of Large Language Model IP Protection Methods Against Model Merging</span></font>  
-<font size="3">Tianshuo Cong, Delong Ran, Zesen Liu, <b>Xinlei He</b>, Jinyuan Liu, Yichen Gong, Qi Li, Anyu Wang, Xiaoyun Wang; <i>CCS 2024</i></font>
-[![img](https://img.shields.io/badge/paper-fac205)](https://arxiv.org/abs/2303.14822) 
-[![img](https://img.shields.io/badge/code-fac205)](https://github.com/xinleihe/MGTBench)
+<font size="3">Tianshuo Cong, Delong Ran, Zesen Liu, <b>Xinlei He</b>, Jinyuan Liu, Yichen Gong, Qi Li, Anyu Wang, Xiaoyun Wang; <i>1st ACM CCS Workshop on Large AI Systems and Models with Privacy and Safety Analysis (LAMPS)</i></font>
+<!-- [![img](https://img.shields.io/badge/paper-fac205)](https://arxiv.org/abs/2303.14822) 
+[![img](https://img.shields.io/badge/code-fac205)](https://github.com/xinleihe/MGTBench) -->
 
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">MGTBench: Benchmarking Machine-Generated Text Detection</span></font>  
