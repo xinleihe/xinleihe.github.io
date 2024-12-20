@@ -9,8 +9,11 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 
 
 
+### <font size="3"><span style="color:rgb(0, 119, 181)">Have You Merged My Model? On The Robustness of Large Language Model IP Protection Methods Against Model Merging</span></font>  
+<font size="3">Tianshuo Cong, Delong Ran, Zesen Liu, <b>Xinlei He</b>, Jinyuan Liu, Yichen Gong, Qi Li, Anyu Wang, Xiaoyun Wang; <i>CCS 2024</i></font>
+[![img](https://img.shields.io/badge/paper-fac205)](https://arxiv.org/abs/2303.14822) 
+[![img](https://img.shields.io/badge/code-fac205)](https://github.com/xinleihe/MGTBench)
 
-### 2024
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">MGTBench: Benchmarking Machine-Generated Text Detection</span></font>  
 <font size="3"><b>Xinlei He</b>, Xinyue Shen, Zeyuan Chen, Michael Backes, Yang Zhang; <i>CCS 2024</i></font>
@@ -37,7 +40,6 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 <!-- [![img](https://img.shields.io/badge/paper-fac205)](https://arxiv.org/abs/2308.08505)
 [![img](https://img.shields.io/badge/code-fac205)](https://github.com/tianshuocong/TePA) -->
 
-### 2023
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">Unsafe Diffusion: On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models</span></font>  
 <font size="3">Yiting Qu, Xinyue Shen, <b>Xinlei He</b>, Michael Backes, Savvas Zannettou, Yang Zhang; <i>CCS 2023</i></font>
@@ -69,7 +71,6 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 [![img](https://img.shields.io/badge/paper-fac205)](https://arxiv.org/abs/2212.06573)
 [![img](https://img.shields.io/badge/code-fac205)](https://github.com/YitingQu/meme-evolution)
 
-### 2022
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">Semi-Leak: Membership Inference Attacks Against Semi-supervised Learning</span></font>  
 <font size="3"><b>Xinlei He</b>, Hongbin Liu, Neil Zhenqiang Gong, Yang Zhang; <i>ECCV 2022</i></font>
@@ -110,8 +111,6 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 <font size="3">Xinyue Shen, <b>Xinlei He</b>, Michael Backes, Jeremy Blackburn, Savvas Zannettou, Yang Zhang; <i>ICWSM 2022</i></font>  
 [![img](https://img.shields.io/badge/paper-fac205)](http://yangzhangalmo.github.io/papers/ICWSM22.pdf)
 
-
-### 2021
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">Quantifying and Mitigating Privacy Risks of Contrastive Learning</span></font>  
 <font size="3"><b>Xinlei He</b>, Yang Zhang; <i>CCS 2021</i></font> 

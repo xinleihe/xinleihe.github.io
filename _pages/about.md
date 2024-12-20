@@ -25,9 +25,13 @@ Job Openings
 
 Recent News
 ======
+
+- [12/2024] One paper got accepted in [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/)!
+- [11/2024] One paper got accepted in [NDSS Symposium 2025](https://www.ndss-symposium.org/ndss2025/)!
+- [10/2024] One paper won the Best Paper Award of ACM CCS 2024 Workshop on [LAMPS](https://lamps-ccs.com/)!
 - [7/2024] I’ll join the PC of IEEE Euro S&P 2025!
 - [7/2024] I’ll join the PC of IEEE SaTML 2025!
-- [5/2024] One paper titled “MGTBench: Benchmarking Machine-Generated Text Detection” got accepted in [CCS 2024](https://www.sigsac.org/ccs/CCS2024/)!
+- [5/2024] One paper got accepted in [CCS 2024](https://www.sigsac.org/ccs/CCS2024/)!
 - [2/2024] I’ll join the PC of ACSAC 2024!
 - [2/2024] I joined HKUST(GZ) as an assistant professor!
 
