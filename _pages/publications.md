@@ -10,10 +10,10 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">From Purity to Peril: Backdooring Merged Models From “Harmless” Benign Components</span></font>  
-<font size="3">Lijin Wang, Jingjing Wang, Tianshuo Cong$^\dagger$, <b>Xinlei He</b>$^\dagger$, Zhan Qin, and Xinyi Huang<i>USENIX Security 2025</i></font>
+<font size="3">Lijin Wang, Jingjing Wang, Tianshuo Cong$^\dagger$, <b>Xinlei He</b>$^\dagger$, Zhan Qin, and Xinyi Huang; <i>USENIX Security 2025</i></font>
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">CL-Attack: Textual Backdoor Attacks via Cross-Lingual Triggers</span></font>  
-<font size="3">Jingyi Zheng, Tianyi Hu, Tianshuo Cong, and <b>Xinlei He</b>$^\dagger$<i>AAAI 2025</i></font>
+<font size="3">Jingyi Zheng, Tianyi Hu, Tianshuo Cong, and <b>Xinlei He</b>$^\dagger$; <i>AAAI 2025</i></font>
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">Have You Merged My Model? On The Robustness of Large Language Model IP Protection Methods Against Model Merging</span></font>  
 <font size="3">Tianshuo Cong, Delong Ran, Zesen Liu, <b>Xinlei He</b>, Jinyuan Liu, Yichen Gong, Qi Li, Anyu Wang, Xiaoyun Wang; <i>1st ACM CCS Workshop on Large AI Systems and Models with Privacy and Safety Analysis (LAMPS)</i></font>🏆 Best Paper Award
