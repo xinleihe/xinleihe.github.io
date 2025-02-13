@@ -16,11 +16,11 @@ I’m fortunate to work with the following brilliant students.
 
 [2024.09-] [Jingyi Zheng](https://jingyi62.github.io)
 
-[2024.06-] Wenhan Dong
+[2024.09-] Wenhan Dong
 
-[2024.06-] Yuemeng Zhao
+[2024.09-] Yuemeng Zhao
 
-[2024.09-] [Zifan Peng](https://ziffer.top/)
+[2024.09-] [Zifan Peng](https://ziffer.top/) 
 
 ## Master Students
 
@@ -44,8 +44,8 @@ I’m fortunate to work with the following brilliant students.
 
 [2024.07-] [Zhiyuan Zhong](https://cooper-zhong.github.io/)
 
-[2024.07-] Zongmin Zhang
-
 [2024.07-] Ziyi Zhang 
+
+[2024.03-] Lijin Wang
 
 
