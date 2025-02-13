@@ -16,7 +16,7 @@ I’m fortunate to work with the following brilliant students.
 
 [2024.09-] [Jingyi Zheng](https://jingyi62.github.io)
 
-[2024.09-] Wenhan Dong
+[2024.09-] [Wenhan Dong](https://scholar.google.com.hk/citations?user=RYiovaQAAAAJ&hl=zh-CN)
 
 [2024.09-] Yuemeng Zhao
 
