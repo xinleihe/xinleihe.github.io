@@ -10,7 +10,7 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">PEFTGuard: Detecting Backdoor Attacks Against Parameter-Efficient Fine-Tuning</span></font>  
-<font size="3">Zhen Sun, Tianshuo Cong, Yule Liu, Chenhao Lin, <b>Xinlei He</b>$^\dagger$, Rongmao Chen, Xingshuo Han, and Xinyi Huang; <i>USENIX Security 2025</i></font>
+<font size="3">Zhen Sun, Tianshuo Cong, Yule Liu, Chenhao Lin, <b>Xinlei He</b>$^\dagger$, Rongmao Chen, Xingshuo Han, and Xinyi Huang; <i>IEEE S&P 2025</i></font>
 
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">From Purity to Peril: Backdooring Merged Models From “Harmless” Benign Components</span></font>  
