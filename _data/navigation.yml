@@ -20,8 +20,8 @@ main:
   - title: "Services"
     url: /services/
 
-  - title: "CV"
-    url: https://xinleihe.github.io/files/cv.pdf
+  # - title: "CV"
+  #   url: https://xinleihe.github.io/files/cv.pdf
 
   - title: "CFPs"
     url: /cfps/
