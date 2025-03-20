@@ -25,6 +25,7 @@ Job Openings
 
 Recent News
 ======
+- [1/2025] One paper got accepted in [IEEE S&P 2025](https://sp2025.ieee-security.org/)!
 - [2/2025] Happy to join the PC of [IJCAI-25 (Special Track AI for Social Good)](https://2025.ijcai.org/)!
 - [1/2025] One paper got accepted in [Usenix Security 2025](https://www.usenix.org/conference/usenixsecurity25)!
 - [12/2024] One paper got accepted in [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/)!

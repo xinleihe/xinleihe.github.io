@@ -9,8 +9,17 @@ $^\dagger$: Corresponding author.
 You can also find my publications on [Google Scholar](https://scholar.google.com/citations?user=6hZNEtoAAAAJ).
 
 
+### <font size="3"><span style="color:rgb(0, 119, 181)">PEFTGuard: Detecting Backdoor Attacks Against Parameter-Efficient Fine-Tuning</span></font>  
+<font size="3">Zhen Sun, Tianshuo Cong, Yule Liu, Chenhao Lin, <b>Xinlei He</b>$^\dagger$, Rongmao Chen, Xingshuo Han, and Xinyi Huang; <i>USENIX Security 2025</i></font>
+
+
 ### <font size="3"><span style="color:rgb(0, 119, 181)">From Purity to Peril: Backdooring Merged Models From “Harmless” Benign Components</span></font>  
 <font size="3">Lijin Wang, Jingjing Wang, Tianshuo Cong$^\dagger$, <b>Xinlei He</b>$^\dagger$, Zhan Qin, and Xinyi Huang; <i>USENIX Security 2025</i></font>
+
+
+### <font size="3"><span style="color:rgb(0, 119, 181)">Safety Misalignment Against Large Language Models</span></font>
+<font size="3">Yichen Gong, Delong Ran, <b>Xinlei He</b>, Tianshuo Cong, Anyu Wang, and Xiaoyun Wang <i>NDSS Symposium 2025</i></font>(AR: 211/1311=16.1%, AR Fall: 14.5%)
+🎖️ Artifact Badges: Available, Functional, Reproduced
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">CL-Attack: Textual Backdoor Attacks via Cross-Lingual Triggers</span></font>  
 <font size="3">Jingyi Zheng, Tianyi Hu, Tianshuo Cong, and <b>Xinlei He</b>$^\dagger$; <i>AAAI 2025</i></font>
