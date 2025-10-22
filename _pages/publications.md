@@ -8,6 +8,35 @@ $^\dagger$: Corresponding author.
 
 You can also find my publications on [Google Scholar](https://scholar.google.com/citations?user=6hZNEtoAAAAJ).
 
+### <font size="3"><span style="color:rgb(0, 119, 181)">CHASM: Unveiling Covert Advertisements on Chinese Social Media</span></font>  
+<font size="3">Jingyi Zheng, Tianyi Hu, Yule Liu, Zhen Sun, Zongmin Zhang, Wenhan Dong, Zifan Peng, and <b>Xinlei He</b>; <i>NeurIPS 2025</i></font>
+
+### <font size="3"><span style="color:rgb(0, 119, 181)">FacLens: Transferable Probe for Foreseeing Non-Factuality in Fact-Seeking Question Answering of Large Language Models</span></font>  
+<font size="3">Yanling Wang, Haoyang Li, Hao Zou, Jing Zhang, <b>Xinlei He</b>, Qi Li, and Ke Xu; <i>EMNLP 2025</i></font>
+
+### <font size="3"><span style="color:rgb(0, 119, 181)">FC-Attack: Jailbreaking Multimodal Large Language Models via Auto-Generated Flowcharts</span></font>  
+<font size="3">Ziyi Zhang, Zhen Sun, Zongmin Zhang, Jihui Guo, <b>Xinlei He</b>$^\dagger$; <i>EMNLP 2025 (Findings)</i></font>
+
+### <font size="3"><span style="color:rgb(0, 119, 181)">Unsafe LLM-Based Search: Quantitative Analysis and Mitigation of Safety Risks in AI Web Search</span></font>  
+<font size="3">Zeren Luo, Zifan Peng, Yule Liu, Zhen Sun, Mingchen Li, Jingyi Zheng, <b>Xinlei He</b>$^\dagger$; <i>USENIX Security 2025</i></font>
+
+### <font size="3"><span style="color:rgb(0, 119, 181)">On the Generalization and Adaptation Ability of Machine-Generated Text Detectors in Academic Writing</span></font>  
+<font size="3">Yule Liu, Zhiyuan Zhong, Yifan Liao, Zhen Sun, Jingyi Zheng, Jiaheng Wei, Qingyuan Gong, Fenghua Tong, Yang Chen, Yang Zhang, and <b>Xinlei He</b>$^\dagger$; <i>KDD 2025 (Datasets and Benchmarks Track)</i></font>
+
+### <font size="3"><span style="color:rgb(0, 119, 181)">TH-Bench: Evaluating Evading Attacks via Humanizing AI Text on Machine-Generated Text Detector</span></font>  
+<font size="3">Jingyi Zheng, Junfeng Wang, Zhen Sun, Wenhan Dong, Yule Liu, and <b>Xinlei He</b>$^\dagger$; <i>KDD 2025 (Datasets and Benchmarks Track)</i></font>
+
+### <font size="3"><span style="color:rgb(0, 119, 181)">Are We in the AI-Generated Text World Already? Quantifying and Monitoring AIGT on Social Media</span></font>  
+<font size="3">Zhen Sun, Zongmin Zhang, Xinyue Shen, Ziyi Zhang, Yule Liu, Michael Backes, Yang Zhang, and <b>Xinlei He</b>$^\dagger$; <i>ACL 2025</i></font>
+
+
+### <font size="3"><span style="color:rgb(0, 119, 181)">Beyond the Tip of Efficiency: Uncovering the Submerged Threats of Jailbreak Attacks in Small Language Models</span></font>  
+<font size="3">Sibo Yi, Tianshuo Cong, Xinlei He, Qi Li, and Jiaxing Song; <i>ACL 2025 (Findings)</i></font>
+
+
+### <font size="3"><span style="color:rgb(0, 119, 181)">Neeko: Model Hijacking Attacks Against Generative Adversarial Networks</span></font>  
+<font size="3">Junjie Chu, Yugeng Liu, <b>Xinlei He</b>, Michael Backes, Yang Zhang, and Ahmed Salem; <i>IEEE ICME 2025</i></font>
+
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">PEFTGuard: Detecting Backdoor Attacks Against Parameter-Efficient Fine-Tuning</span></font>  
 <font size="3">Zhen Sun, Tianshuo Cong, Yule Liu, Chenhao Lin, <b>Xinlei He</b>$^\dagger$, Rongmao Chen, Xingshuo Han, and Xinyi Huang; <i>IEEE S&P 2025</i></font>

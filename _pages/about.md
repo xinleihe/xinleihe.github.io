@@ -25,8 +25,10 @@ Job Openings
 
 Recent News
 ======
+- [10/2024] I’ll join the PC of WWW 2026!
 - [9/2025] One paper got accepted in [NeurIPS 2025](https://neurips.cc/)!
 - [9/2025] Two papers got accepted in [EMNLP 2025](https://2025.emnlp.org/)!
+- [10/2024] I’ll serve as the AC of ACL 2026!
 - [9/2025] I will serve as the associate editor for [IEEE TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)!
 - [8/2025] One paper got accepted in [Usenix Security 2025](https://www.usenix.org/conference/usenixsecurity25)!
 - [6/2025] Two papers got accepted in [KDD 2025 (Datasets and Benchmarks Track)](https://kdd2025.kdd.org/)!
