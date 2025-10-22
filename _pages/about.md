@@ -25,6 +25,13 @@ Job Openings
 
 Recent News
 ======
+- [9/2025] One paper got accepted in [NeurIPS 2025](https://neurips.cc/)!
+- [9/2025] Two papers got accepted in [EMNLP 2025](https://2025.emnlp.org/)!
+- [9/2025] I will serve as the associate editor for [IEEE TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)!
+- [8/2025] One paper got accepted in [Usenix Security 2025](https://www.usenix.org/conference/usenixsecurity25)!
+- [6/2025] Two papers got accepted in [KDD 2025 (Datasets and Benchmarks Track)](https://kdd2025.kdd.org/)!
+- [5/2025] Two papers got accepted in [ACL 2025](https://2025.aclweb.org/)!
+- [3/2025] One paper got accepted in [IEEE ICME 2025](https://2025.ieeeicme.org/)!
 - [1/2025] One paper got accepted in [IEEE S&P 2025](https://sp2025.ieee-security.org/)!
 - [2/2025] Happy to join the PC of [IJCAI-25 (Special Track AI for Social Good)](https://2025.ijcai.org/)!
 - [1/2025] One paper got accepted in [Usenix Security 2025](https://www.usenix.org/conference/usenixsecurity25)!
