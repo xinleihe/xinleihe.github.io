@@ -8,6 +8,17 @@ $^\dagger$: Corresponding author.
 
 You can also find my publications on [Google Scholar](https://scholar.google.com/citations?user=6hZNEtoAAAAJ).
 
+## 2026
+
+### <font size="3"><span style="color:rgb(0, 119, 181)">6DAttack: Backdoor Attacks in the 6DoF Pose Estimation</span></font>  
+<font size="3">Jihui Guo, Zongmin Zhang, Zhen Sun, Yuhao Yang, Jinlin Wu, Fu Zhang, and <b>Xinlei He</b>$^\dagger$; <i>AAAI 2026 (Oral)</i></font>
+
+### <font size="3"><span style="color:rgb(0, 119, 181)">An Improved Privacy and Utility Analysis of Differentially Private SGD with Bounded Domain and Smooth Losses</span></font>  
+<font size="3">Hao Liang, Wanrong Zhang, <b>Xinlei He</b>, Kaishun Wu, and Hong Xing; <i>AAAI 2026 (Poster)</i></font>
+
+
+## 2025
+
 ### <font size="3"><span style="color:rgb(0, 119, 181)">CHASM: Unveiling Covert Advertisements on Chinese Social Media</span></font>  
 <font size="3">Jingyi Zheng, Tianyi Hu, Yule Liu, Zhen Sun, Zongmin Zhang, Wenhan Dong, Zifan Peng, and <b>Xinlei He</b>; <i>NeurIPS 2025</i></font>
 
@@ -58,6 +69,7 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 <!-- [![img](https://img.shields.io/badge/paper-fac205)](https://arxiv.org/abs/2303.14822) 
 [![img](https://img.shields.io/badge/code-fac205)](https://github.com/xinleihe/MGTBench) -->
 
+## 2024
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">MGTBench: Benchmarking Machine-Generated Text Detection</span></font>  
 <font size="3"><b>Xinlei He</b>, Xinyue Shen, Zeyuan Chen, Michael Backes, Yang Zhang; <i>CCS 2024</i></font>
@@ -84,6 +96,7 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 <!-- [![img](https://img.shields.io/badge/paper-fac205)](https://arxiv.org/abs/2308.08505)
 [![img](https://img.shields.io/badge/code-fac205)](https://github.com/tianshuocong/TePA) -->
 
+## 2023
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">Unsafe Diffusion: On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models</span></font>  
 <font size="3">Yiting Qu, Xinyue Shen, <b>Xinlei He</b>, Michael Backes, Savvas Zannettou, Yang Zhang; <i>CCS 2023</i></font>
@@ -115,6 +128,7 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 [![img](https://img.shields.io/badge/paper-fac205)](https://arxiv.org/abs/2212.06573)
 [![img](https://img.shields.io/badge/code-fac205)](https://github.com/YitingQu/meme-evolution)
 
+## 2022
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">Semi-Leak: Membership Inference Attacks Against Semi-supervised Learning</span></font>  
 <font size="3"><b>Xinlei He</b>, Hongbin Liu, Neil Zhenqiang Gong, Yang Zhang; <i>ECCV 2022</i></font>
@@ -156,6 +170,8 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 [![img](https://img.shields.io/badge/paper-fac205)](http://yangzhangalmo.github.io/papers/ICWSM22.pdf)
 
 
+## 2021
+
 ### <font size="3"><span style="color:rgb(0, 119, 181)">Quantifying and Mitigating Privacy Risks of Contrastive Learning</span></font>  
 <font size="3"><b>Xinlei He</b>, Yang Zhang; <i>CCS 2021</i></font> 
 [![img](https://img.shields.io/badge/paper-fac205)](http://yangzhangalmo.github.io/papers/CCS21-ContrastivePrivacy.pdf)
@@ -177,9 +193,6 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 ### <font size="3"><span style="color:rgb(0, 119, 181)">DatingSec: Detecting Malicious Accounts in Dating Apps Using a Content-Based Attention Network</span></font>  
 <font size="3"><b>Xinlei He</b>, Qingyuan Gong, Yang Chen, Yang Zhang, Xin Wang, Xiaoming Fu; <i>IEEE Transactions on Dependable and Secure Computing (TDSC)</i></font>
 [![img](https://img.shields.io/badge/paper-fac205)](https://ieeexplore.ieee.org/document/9384217)
-
-
-### Prior to PhD:
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">Cross-Site Prediction on Social Influence for Cold-Start Users in Online Social Networks</span></font>  
 <font size="3">Qingyuan Gong, Yang Chen, <b>Xinlei He</b>, Yu Xiao, Pan Hui, Xin Wang, Xiaoming Fu; <i>ACM Transactions on the Web (TWEB)</i></font>
