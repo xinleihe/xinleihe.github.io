@@ -11,7 +11,7 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 ## 2026
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">6DAttack: Backdoor Attacks in the 6DoF Pose Estimation</span></font>  
-<font size="3">Jihui Guo, Zongmin Zhang, Zhen Sun, Yuhao Yang, Jinlin Wu, Fu Zhang, and <b>Xinlei He</b>$^\dagger$; <i>AAAI 2026 (Oral)</i></font>
+<font size="3">Jihui Guo, Zongmin Zhang, Zhen Sun, Yuhao Yang, Jinlin Wu, Fu Zhang$^\dagger$, and <b>Xinlei He</b>$^\dagger$; <i>AAAI 2026 (Oral)</i></font>
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">An Improved Privacy and Utility Analysis of Differentially Private SGD with Bounded Domain and Smooth Losses</span></font>  
 <font size="3">Hao Liang, Wanrong Zhang, <b>Xinlei He</b>, Kaishun Wu, and Hong Xing; <i>AAAI 2026 (Poster)</i></font>

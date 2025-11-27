@@ -4,7 +4,7 @@ permalink: /students/
 author_profile: true
 ---
 
-I’m fortunate to work with the following brilliant students.
+I’m more than fortunate to work with the following brilliant students.
 
 ## Ph.D. Students
 

@@ -11,6 +11,7 @@ redirect_from:
 
 Biography
 ======
+I will be joining [Wuhan University](https://www.whu.edu.cn/) as a professor in 2026.
 I am an assistant professor jointly in the DSA and IoT Thrust of the Information Hub at [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/).
 I am interested in Trustworthy Machine Learning, with a spesific focus on the security, privacy, and safety aspects.
 Previously, I obtained my Ph.D at [CISPA Helmholtz Center for Information Security](https://cispa.saarland/), Saarland University advised by Dr. [Yang Zhang](https://yangzhangalmo.github.io/) in 2023.
@@ -19,7 +20,7 @@ I received my bachelor (2017) and master (2020) degrees from Fudan University, a
 
 Job Openings
 ======
-<span style="color:rgb(255, 87, 51)">I am looking for self-motivated PhD students (25 Fall) and research assistant to join my research group. Please drop me an [email](mailto:xinleihe@hkust-gz.edu.cn) if you are interested in working with me!</span>
+<span style="color:rgb(255, 87, 51)"> [Wuhan University] I am looking for self-motivated PhD students (26 Fall), PostDocs and research assistants to join my research group. Please drop me an [email](mailto:1243165141@qq.com) if you are interested in working with me!</span>
 
 <!-- <span style="color:rgb(0, 119, 181)"><b>I'm looking for jobs from both acadamia and industry! Please drop me an email (wooohxl@gmail.com) if you think I'd be a good fit for your team :D</b></span> -->
 
